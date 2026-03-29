@@ -1,0 +1,1001 @@
+post_id,user_id,text,label,post_length,avg_sentiment,num_likes,num_shares,num_reports,user_posts,user_friends,response_time,toxicity_score
+p0001,u101,Wishing you all the best in your exams.,non-bullying,8,0.47,69,20,0,169,326,3.82,0.12
+p0002,u102,"You’re a joke, nobody cares about you.",bullying,7,-0.99,5,1,4,439,107,3.96,0.88
+p0003,u103,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.5,84,8,0,172,310,0.74,0.03
+p0004,u104,"Just disappear, nobody will miss you.",bullying,6,-0.76,5,2,1,180,23,4.03,0.99
+p0005,u105,Wishing you all the best in your exams.,non-bullying,8,0.35,38,13,0,484,761,1.36,0.18
+p0006,u106,"You’re such a loser, nobody likes you.",bullying,7,-0.5,2,1,2,348,59,0.38,0.81
+p0007,u107,"Great job on your project, well done!",non-bullying,7,0.99,96,3,0,307,845,0.63,0.14
+p0008,u108,"You're annoying, everyone hates you.",bullying,5,-0.74,9,1,3,487,725,1.23,0.96
+p0009,u109,Thanks for helping me yesterday!,non-bullying,5,0.31,88,19,0,435,121,2.66,0.14
+p0010,u110,"You’re a joke, nobody cares about you.",bullying,7,-0.54,0,2,3,480,993,1.8,0.83
+p0011,u111,"Nice work team, proud of you!",non-bullying,6,0.66,38,10,0,63,191,0.94,0.24
+p0012,u112,You're ugly and worthless.,bullying,4,-0.91,10,2,1,412,705,2.57,0.87
+p0013,u113,Congrats on your success! Keep shining.,non-bullying,6,0.89,13,12,0,425,809,2.23,0.02
+p0014,u114,"You’re a joke, nobody cares about you.",bullying,7,-0.74,7,1,5,261,913,2.08,0.89
+p0015,u115,Congrats on your success! Keep shining.,non-bullying,6,0.66,71,0,0,401,146,0.42,0.16
+p0016,u116,Why are you always so dumb?,bullying,6,-0.57,4,0,5,104,199,2.41,0.92
+p0017,u117,"Great job on your project, well done!",non-bullying,7,0.43,95,14,0,396,206,1.38,0.3
+p0018,u118,"Just disappear, nobody will miss you.",bullying,6,-0.85,3,0,3,155,569,4.68,0.84
+p0019,u119,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.94,80,11,0,95,154,4.22,0.16
+p0020,u120,Nobody wants to be around you.,bullying,6,-0.6,1,2,2,343,241,2.22,0.93
+p0021,u121,Congrats on your success! Keep shining.,non-bullying,6,0.58,29,1,0,317,370,3.13,0.14
+p0022,u122,"You're annoying, everyone hates you.",bullying,5,-0.95,9,2,2,163,197,1.58,0.77
+p0023,u123,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.64,19,0,0,329,406,0.97,0.07
+p0024,u124,You're nothing but a failure.,bullying,5,-0.9,6,1,5,374,639,1.96,0.72
+p0025,u125,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.81,86,16,0,151,895,3.27,0.28
+p0026,u126,"Nobody respects you, just stop.",bullying,5,-0.82,7,2,1,483,594,3.94,0.81
+p0027,u127,"Nice work team, proud of you!",non-bullying,6,0.66,8,19,0,76,300,3.59,0.04
+p0028,u128,"You’re such a loser, nobody likes you.",bullying,7,-0.54,1,2,5,149,265,1.75,0.88
+p0029,u129,"That was an amazing performance, bravo!",non-bullying,6,0.6,80,13,0,310,860,2.03,0.3
+p0030,u130,"Pathetic, you should just quit.",bullying,5,-0.94,0,0,4,468,992,2.83,0.77
+p0031,u131,You are really talented and hardworking.,non-bullying,6,0.37,68,9,0,395,685,2.9,0.16
+p0032,u132,You're nothing but a failure.,bullying,5,-0.62,2,1,4,206,538,2.93,0.91
+p0033,u133,Congrats on your success! Keep shining.,non-bullying,6,0.38,67,10,0,57,762,4.84,0.08
+p0034,u134,Nobody wants to be around you.,bullying,6,-0.99,5,0,1,238,168,4.25,0.79
+p0035,u135,Wishing you all the best in your exams.,non-bullying,8,0.77,44,17,0,139,190,4.34,0.04
+p0036,u136,"You're annoying, everyone hates you.",bullying,5,-0.96,0,1,3,275,868,0.35,0.87
+p0037,u137,"That was an amazing performance, bravo!",non-bullying,6,0.85,52,10,0,305,437,3.19,0.23
+p0038,u138,"Just disappear, nobody will miss you.",bullying,6,-0.72,2,1,2,463,933,4.29,0.82
+p0039,u139,"Keep going, you’re doing amazing!",non-bullying,5,0.9,39,7,0,255,517,4.95,0.18
+p0040,u140,You're nothing but a failure.,bullying,5,-0.96,3,2,2,165,23,3.15,0.83
+p0041,u141,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.91,34,4,0,404,615,1.41,0.1
+p0042,u142,You're ugly and worthless.,bullying,4,-0.67,8,2,3,482,171,1.35,0.88
+p0043,u143,Congrats on your success! Keep shining.,non-bullying,6,0.54,94,3,0,465,438,0.79,0.03
+p0044,u144,Nobody wants to be around you.,bullying,6,-0.66,3,1,2,287,184,4.39,0.71
+p0045,u145,Congrats on your success! Keep shining.,non-bullying,6,0.43,71,8,0,225,602,3.38,0.09
+p0046,u146,"Just disappear, nobody will miss you.",bullying,6,-0.66,10,0,3,495,871,0.24,0.85
+p0047,u147,"Keep going, you’re doing amazing!",non-bullying,5,0.37,88,17,0,111,773,4.69,0.05
+p0048,u148,"Just disappear, nobody will miss you.",bullying,6,-0.61,0,0,4,125,242,3.48,0.93
+p0049,u149,Wishing you all the best in your exams.,non-bullying,8,0.75,96,7,0,368,104,3.05,0.12
+p0050,u150,"You’re a joke, nobody cares about you.",bullying,7,-0.59,1,2,4,151,909,1.74,0.95
+p0051,u151,Your positivity inspires everyone around you.,non-bullying,6,0.45,83,20,0,133,142,4.05,0.2
+p0052,u152,Why are you always so dumb?,bullying,6,-0.56,7,1,4,447,417,4.15,0.94
+p0053,u153,"Great job on your project, well done!",non-bullying,7,0.36,81,4,0,441,377,4.28,0.15
+p0054,u154,"You're annoying, everyone hates you.",bullying,5,-0.6,0,1,3,361,683,4.82,0.97
+p0055,u155,You are really talented and hardworking.,non-bullying,6,0.66,74,9,0,113,671,2.02,0.09
+p0056,u156,You're nothing but a failure.,bullying,5,-0.86,0,2,1,411,326,0.72,0.93
+p0057,u157,Thanks for helping me yesterday!,non-bullying,5,0.48,32,12,0,446,331,1.66,0.22
+p0058,u158,"You’re such a loser, nobody likes you.",bullying,7,-0.62,9,0,1,147,425,1.25,0.77
+p0059,u159,You are really talented and hardworking.,non-bullying,6,0.81,57,18,0,66,439,3.29,0.13
+p0060,u160,"Just disappear, nobody will miss you.",bullying,6,-0.82,10,2,1,246,625,4.75,0.79
+p0061,u161,You are really talented and hardworking.,non-bullying,6,0.3,91,17,0,231,467,0.53,0.08
+p0062,u162,"You’re such a loser, nobody likes you.",bullying,7,-0.85,4,2,4,398,316,0.64,0.81
+p0063,u163,You are really talented and hardworking.,non-bullying,6,0.79,55,16,0,231,797,3.56,0.21
+p0064,u164,"You’re a joke, nobody cares about you.",bullying,7,-0.83,7,0,1,144,836,1.39,0.79
+p0065,u165,"That was an amazing performance, bravo!",non-bullying,6,0.49,89,12,0,206,423,1.93,0.14
+p0066,u166,"You're annoying, everyone hates you.",bullying,5,-0.55,6,2,3,221,48,0.16,0.72
+p0067,u167,You are really talented and hardworking.,non-bullying,6,0.33,89,8,0,407,785,0.79,0.1
+p0068,u168,"You’re a joke, nobody cares about you.",bullying,7,-0.59,10,2,3,174,389,3.29,0.96
+p0069,u169,Congrats on your success! Keep shining.,non-bullying,6,0.46,2,17,0,345,998,0.34,0.1
+p0070,u170,You're ugly and worthless.,bullying,4,-0.73,7,2,1,88,627,1.56,0.75
+p0071,u171,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.75,71,10,0,369,728,2.05,0.19
+p0072,u172,"Just disappear, nobody will miss you.",bullying,6,-0.58,2,2,2,229,906,4.25,0.81
+p0073,u173,Thanks for helping me yesterday!,non-bullying,5,0.89,97,16,0,178,379,4.46,0.21
+p0074,u174,You're ugly and worthless.,bullying,4,-0.95,3,0,4,199,264,3.38,0.97
+p0075,u175,Wishing you all the best in your exams.,non-bullying,8,0.36,78,5,0,190,865,1.97,0.29
+p0076,u176,Nobody wants to be around you.,bullying,6,-0.52,6,2,4,165,62,1.53,0.9
+p0077,u177,"Nice work team, proud of you!",non-bullying,6,0.69,87,13,0,135,684,3.33,0.18
+p0078,u178,Nobody wants to be around you.,bullying,6,-0.61,5,2,3,460,399,1.62,0.89
+p0079,u179,"Great job on your project, well done!",non-bullying,7,0.93,68,12,0,415,326,4.68,0.19
+p0080,u180,You're nothing but a failure.,bullying,5,-0.69,8,1,1,268,35,2.68,0.88
+p0081,u181,Thanks for helping me yesterday!,non-bullying,5,0.72,71,7,0,142,532,1.35,0.25
+p0082,u182,"Nobody respects you, just stop.",bullying,5,-0.86,9,1,3,53,782,1.7,0.72
+p0083,u183,"That was an amazing performance, bravo!",non-bullying,6,0.72,58,13,0,328,616,0.93,0.01
+p0084,u184,Nobody wants to be around you.,bullying,6,-0.78,5,2,2,371,746,1.34,0.82
+p0085,u185,"Keep going, you’re doing amazing!",non-bullying,5,0.58,58,2,0,172,176,1.19,0.27
+p0086,u186,You're ugly and worthless.,bullying,4,-0.76,5,0,2,131,889,3.48,0.72
+p0087,u187,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.33,14,13,0,84,300,3.32,0.13
+p0088,u188,"You’re such a loser, nobody likes you.",bullying,7,-0.81,8,2,1,206,698,0.49,0.83
+p0089,u189,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.84,85,7,0,494,940,2.22,0.16
+p0090,u190,Nobody wants to be around you.,bullying,6,-0.96,10,0,4,55,826,3.98,0.72
+p0091,u191,Your positivity inspires everyone around you.,non-bullying,6,0.33,46,16,0,438,327,4.05,0.28
+p0092,u192,You're nothing but a failure.,bullying,5,-0.79,7,2,4,466,80,4.93,0.78
+p0093,u193,"That was an amazing performance, bravo!",non-bullying,6,0.4,81,5,0,431,462,0.8,0.04
+p0094,u194,Nobody wants to be around you.,bullying,6,-0.83,8,0,3,126,524,3.97,0.92
+p0095,u195,"Keep going, you’re doing amazing!",non-bullying,5,0.44,4,13,0,470,637,3.81,0.22
+p0096,u196,Nobody wants to be around you.,bullying,6,-0.82,5,0,2,474,995,3.94,0.93
+p0097,u197,"Keep going, you’re doing amazing!",non-bullying,5,0.43,46,17,0,82,126,0.11,0.29
+p0098,u198,"You're annoying, everyone hates you.",bullying,5,-0.59,6,0,4,223,168,1.28,0.7
+p0099,u199,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.96,98,7,0,226,655,4.85,0.18
+p0100,u200,"You’re a joke, nobody cares about you.",bullying,7,-0.55,10,2,2,371,80,0.55,0.9
+p0101,u201,"Nice work team, proud of you!",non-bullying,6,0.56,14,1,0,98,330,4.85,0.06
+p0102,u202,"Pathetic, you should just quit.",bullying,5,-0.95,2,1,5,243,569,4.14,0.72
+p0103,u203,"Nice work team, proud of you!",non-bullying,6,0.48,28,1,0,405,565,3.73,0.26
+p0104,u204,"You’re a joke, nobody cares about you.",bullying,7,-0.67,6,0,3,399,601,2.95,0.81
+p0105,u205,Wishing you all the best in your exams.,non-bullying,8,0.89,91,8,0,261,513,0.89,0.09
+p0106,u206,You're nothing but a failure.,bullying,5,-0.89,0,2,5,321,299,0.53,0.9
+p0107,u207,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.68,87,18,0,249,51,0.28,0.01
+p0108,u208,"You're annoying, everyone hates you.",bullying,5,-0.83,6,0,1,173,687,3.0,0.96
+p0109,u209,Congrats on your success! Keep shining.,non-bullying,6,0.91,41,14,0,162,385,2.64,0.04
+p0110,u210,"Just disappear, nobody will miss you.",bullying,6,-0.64,4,2,3,418,974,3.49,0.87
+p0111,u211,You are really talented and hardworking.,non-bullying,6,0.42,54,18,0,476,351,3.15,0.04
+p0112,u212,You're nothing but a failure.,bullying,5,-0.63,7,2,2,426,74,1.38,0.79
+p0113,u213,"Nice work team, proud of you!",non-bullying,6,0.4,10,6,0,489,737,2.11,0.19
+p0114,u214,You're nothing but a failure.,bullying,5,-0.63,6,2,5,304,330,2.4,0.89
+p0115,u215,"Great job on your project, well done!",non-bullying,7,0.85,100,17,0,418,721,3.01,0.22
+p0116,u216,"You’re a joke, nobody cares about you.",bullying,7,-0.97,4,1,5,115,797,1.64,0.89
+p0117,u217,Congrats on your success! Keep shining.,non-bullying,6,0.87,1,8,0,176,253,0.98,0.14
+p0118,u218,"You’re such a loser, nobody likes you.",bullying,7,-0.65,0,1,4,79,435,0.45,0.76
+p0119,u219,"Nice work team, proud of you!",non-bullying,6,0.75,11,9,0,344,422,0.92,0.12
+p0120,u220,"Just disappear, nobody will miss you.",bullying,6,-0.77,9,0,4,98,690,3.1,0.79
+p0121,u221,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.54,36,16,0,105,103,0.7,0.11
+p0122,u222,"You're annoying, everyone hates you.",bullying,5,-0.59,0,2,1,415,854,1.78,0.97
+p0123,u223,"Great job on your project, well done!",non-bullying,7,0.81,90,7,0,79,672,2.83,0.22
+p0124,u224,"You’re a joke, nobody cares about you.",bullying,7,-0.89,1,0,3,300,713,0.84,1.0
+p0125,u225,"Keep going, you’re doing amazing!",non-bullying,5,0.91,53,14,0,258,216,3.28,0.06
+p0126,u226,"Nobody respects you, just stop.",bullying,5,-0.93,3,1,1,259,184,0.86,0.74
+p0127,u227,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.35,62,3,0,224,596,1.85,0.28
+p0128,u228,"You're annoying, everyone hates you.",bullying,5,-0.58,1,0,2,404,865,2.86,0.75
+p0129,u229,"That was an amazing performance, bravo!",non-bullying,6,0.41,18,6,0,471,815,1.63,0.3
+p0130,u230,Why are you always so dumb?,bullying,6,-0.58,9,2,3,307,962,2.66,0.82
+p0131,u231,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.71,34,15,0,405,975,3.71,0.27
+p0132,u232,You're ugly and worthless.,bullying,4,-0.81,1,0,5,388,521,3.86,0.7
+p0133,u233,You are really talented and hardworking.,non-bullying,6,0.78,88,2,0,154,474,1.5,0.11
+p0134,u234,"Nobody respects you, just stop.",bullying,5,-0.79,7,1,1,441,971,0.51,0.88
+p0135,u235,You are really talented and hardworking.,non-bullying,6,0.46,77,18,0,123,291,3.42,0.2
+p0136,u236,You're nothing but a failure.,bullying,5,-0.92,5,1,5,80,748,0.16,0.88
+p0137,u237,You are really talented and hardworking.,non-bullying,6,0.48,31,14,0,495,588,2.93,0.22
+p0138,u238,"You’re such a loser, nobody likes you.",bullying,7,-0.69,1,1,5,287,21,0.64,0.7
+p0139,u239,Congrats on your success! Keep shining.,non-bullying,6,0.75,6,15,0,343,896,1.47,0.09
+p0140,u240,Why are you always so dumb?,bullying,6,-0.69,4,0,1,310,247,3.78,0.7
+p0141,u241,Your positivity inspires everyone around you.,non-bullying,6,0.96,88,15,0,147,614,4.64,0.14
+p0142,u242,"Nobody respects you, just stop.",bullying,5,-0.57,10,2,2,159,110,2.17,0.8
+p0143,u243,Congrats on your success! Keep shining.,non-bullying,6,0.97,92,17,0,187,613,2.65,0.03
+p0144,u244,You're ugly and worthless.,bullying,4,-0.73,5,0,3,319,86,0.68,0.92
+p0145,u245,You are really talented and hardworking.,non-bullying,6,0.62,39,6,0,101,988,4.14,0.1
+p0146,u246,"You're annoying, everyone hates you.",bullying,5,-0.85,7,2,5,168,655,0.47,0.8
+p0147,u247,Congrats on your success! Keep shining.,non-bullying,6,0.74,7,17,0,400,441,2.57,0.21
+p0148,u248,"Just disappear, nobody will miss you.",bullying,6,-0.88,0,2,2,499,329,1.41,0.78
+p0149,u249,"That was an amazing performance, bravo!",non-bullying,6,0.82,4,18,0,200,855,4.02,0.02
+p0150,u250,"You’re a joke, nobody cares about you.",bullying,7,-0.71,4,0,2,376,364,0.99,0.87
+p0151,u251,"Keep going, you’re doing amazing!",non-bullying,5,0.46,46,7,0,201,346,0.39,0.2
+p0152,u252,Nobody wants to be around you.,bullying,6,-0.84,2,0,3,98,332,2.03,0.92
+p0153,u253,You are really talented and hardworking.,non-bullying,6,0.39,75,17,0,251,559,2.57,0.21
+p0154,u254,"You’re a joke, nobody cares about you.",bullying,7,-0.59,9,2,5,52,478,1.95,0.85
+p0155,u255,Wishing you all the best in your exams.,non-bullying,8,0.61,63,5,0,429,739,1.02,0.28
+p0156,u256,Why are you always so dumb?,bullying,6,-0.73,5,2,1,193,372,2.44,0.99
+p0157,u257,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.8,35,8,0,64,177,2.74,0.29
+p0158,u258,"Pathetic, you should just quit.",bullying,5,-0.96,3,2,5,370,824,0.26,0.78
+p0159,u259,Congrats on your success! Keep shining.,non-bullying,6,0.67,9,8,0,184,832,0.27,0.21
+p0160,u260,"You're annoying, everyone hates you.",bullying,5,-0.85,8,2,4,445,178,0.44,0.98
+p0161,u261,"That was an amazing performance, bravo!",non-bullying,6,0.68,72,3,0,326,502,4.32,0.07
+p0162,u262,"You’re a joke, nobody cares about you.",bullying,7,-0.67,7,0,5,237,711,4.99,0.77
+p0163,u263,"That was an amazing performance, bravo!",non-bullying,6,0.75,83,0,0,443,916,3.74,0.19
+p0164,u264,"You’re a joke, nobody cares about you.",bullying,7,-0.81,2,0,5,357,620,1.9,0.98
+p0165,u265,Wishing you all the best in your exams.,non-bullying,8,0.43,71,6,0,303,61,3.84,0.06
+p0166,u266,"Nobody respects you, just stop.",bullying,5,-1.0,9,0,1,334,13,3.01,0.9
+p0167,u267,Your positivity inspires everyone around you.,non-bullying,6,0.61,10,1,0,125,510,0.45,0.1
+p0168,u268,You're nothing but a failure.,bullying,5,-0.64,9,1,5,477,353,2.03,0.76
+p0169,u269,"Great job on your project, well done!",non-bullying,7,0.73,75,7,0,83,160,3.23,0.19
+p0170,u270,Why are you always so dumb?,bullying,6,-0.77,8,0,2,239,884,2.75,0.73
+p0171,u271,Congrats on your success! Keep shining.,non-bullying,6,0.59,56,5,0,60,505,2.39,0.08
+p0172,u272,"Pathetic, you should just quit.",bullying,5,-0.8,2,0,5,125,74,2.97,0.92
+p0173,u273,Congrats on your success! Keep shining.,non-bullying,6,0.76,90,19,0,302,478,4.43,0.06
+p0174,u274,Why are you always so dumb?,bullying,6,-0.59,4,2,2,161,873,3.77,0.8
+p0175,u275,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.56,91,20,0,174,942,3.86,0.09
+p0176,u276,"You're annoying, everyone hates you.",bullying,5,-0.96,4,2,2,101,396,3.84,0.71
+p0177,u277,Congrats on your success! Keep shining.,non-bullying,6,0.54,87,10,0,225,836,1.31,0.04
+p0178,u278,"You’re a joke, nobody cares about you.",bullying,7,-0.74,4,1,5,296,681,4.49,0.75
+p0179,u279,"That was an amazing performance, bravo!",non-bullying,6,0.45,54,5,0,379,376,4.1,0.11
+p0180,u280,You're ugly and worthless.,bullying,4,-0.5,9,1,1,92,404,2.61,0.76
+p0181,u281,"That was an amazing performance, bravo!",non-bullying,6,0.65,6,13,0,272,945,4.03,0.29
+p0182,u282,Why are you always so dumb?,bullying,6,-0.86,10,0,2,394,391,2.77,0.93
+p0183,u283,Wishing you all the best in your exams.,non-bullying,8,0.92,17,10,0,83,849,0.24,0.12
+p0184,u284,"Nobody respects you, just stop.",bullying,5,-0.62,2,1,1,488,83,4.63,0.96
+p0185,u285,Wishing you all the best in your exams.,non-bullying,8,0.78,74,0,0,55,277,4.31,0.16
+p0186,u286,Why are you always so dumb?,bullying,6,-0.71,6,0,4,497,695,1.29,0.88
+p0187,u287,Thanks for helping me yesterday!,non-bullying,5,0.93,3,9,0,124,819,4.18,0.29
+p0188,u288,Nobody wants to be around you.,bullying,6,-0.58,10,1,1,180,283,1.29,0.84
+p0189,u289,Congrats on your success! Keep shining.,non-bullying,6,0.6,58,7,0,210,249,1.52,0.18
+p0190,u290,"You’re such a loser, nobody likes you.",bullying,7,-0.94,4,0,5,97,40,3.7,0.85
+p0191,u291,"Great job on your project, well done!",non-bullying,7,0.36,54,4,0,312,861,3.97,0.19
+p0192,u292,"You’re a joke, nobody cares about you.",bullying,7,-0.74,2,2,5,358,887,2.11,0.71
+p0193,u293,"Keep going, you’re doing amazing!",non-bullying,5,0.87,80,16,0,436,697,1.79,0.21
+p0194,u294,"You're annoying, everyone hates you.",bullying,5,-0.69,1,1,3,179,363,2.65,0.99
+p0195,u295,"That was an amazing performance, bravo!",non-bullying,6,0.94,91,14,0,228,568,2.25,0.29
+p0196,u296,Why are you always so dumb?,bullying,6,-0.88,3,2,3,114,79,3.83,0.96
+p0197,u297,Congrats on your success! Keep shining.,non-bullying,6,0.96,39,7,0,447,313,1.64,0.16
+p0198,u298,You're nothing but a failure.,bullying,5,-0.54,9,1,4,209,859,2.78,0.89
+p0199,u299,Your positivity inspires everyone around you.,non-bullying,6,0.55,29,13,0,181,827,1.74,0.05
+p0200,u300,Nobody wants to be around you.,bullying,6,-0.73,4,1,2,463,328,4.86,0.89
+p0201,u301,"Great job on your project, well done!",non-bullying,7,0.34,77,7,0,386,72,1.95,0.24
+p0202,u302,"You’re a joke, nobody cares about you.",bullying,7,-0.75,5,1,1,203,72,0.2,0.74
+p0203,u303,"That was an amazing performance, bravo!",non-bullying,6,0.63,47,15,0,180,475,4.89,0.05
+p0204,u304,Nobody wants to be around you.,bullying,6,-0.68,8,1,5,426,388,1.9,0.77
+p0205,u305,"Keep going, you’re doing amazing!",non-bullying,5,0.33,88,16,0,402,504,4.95,0.28
+p0206,u306,"Nobody respects you, just stop.",bullying,5,-0.63,6,1,3,324,787,4.0,0.9
+p0207,u307,Thanks for helping me yesterday!,non-bullying,5,0.65,13,9,0,245,640,4.65,0.0
+p0208,u308,Why are you always so dumb?,bullying,6,-0.72,7,0,2,371,945,2.2,0.96
+p0209,u309,Your positivity inspires everyone around you.,non-bullying,6,0.77,65,3,0,135,268,4.83,0.07
+p0210,u310,"You’re such a loser, nobody likes you.",bullying,7,-0.55,0,1,3,159,633,2.33,0.96
+p0211,u311,"Keep going, you’re doing amazing!",non-bullying,5,0.92,28,7,0,487,639,4.37,0.12
+p0212,u312,Nobody wants to be around you.,bullying,6,-0.7,5,2,4,50,883,2.59,0.83
+p0213,u313,You are really talented and hardworking.,non-bullying,6,0.34,21,8,0,210,569,1.86,0.24
+p0214,u314,Why are you always so dumb?,bullying,6,-0.75,10,0,2,470,536,4.53,0.8
+p0215,u315,"Nice work team, proud of you!",non-bullying,6,0.53,39,2,0,327,351,1.97,0.11
+p0216,u316,"Nobody respects you, just stop.",bullying,5,-0.83,6,1,2,133,560,1.5,0.77
+p0217,u317,"Nice work team, proud of you!",non-bullying,6,0.64,44,8,0,152,667,1.96,0.19
+p0218,u318,You're ugly and worthless.,bullying,4,-0.98,9,2,2,424,773,4.58,0.85
+p0219,u319,"Keep going, you’re doing amazing!",non-bullying,5,0.4,53,6,0,453,72,4.72,0.11
+p0220,u320,"You’re a joke, nobody cares about you.",bullying,7,-0.71,10,2,3,377,627,1.25,0.95
+p0221,u321,"Great job on your project, well done!",non-bullying,7,0.96,83,7,0,102,30,0.72,0.04
+p0222,u322,"Nobody respects you, just stop.",bullying,5,-0.83,3,1,3,366,313,0.17,0.87
+p0223,u323,"Great job on your project, well done!",non-bullying,7,0.96,65,3,0,351,785,3.22,0.04
+p0224,u324,"Nobody respects you, just stop.",bullying,5,-0.79,8,2,4,159,720,0.29,0.89
+p0225,u325,You are really talented and hardworking.,non-bullying,6,0.84,92,4,0,413,536,3.02,0.17
+p0226,u326,"You're annoying, everyone hates you.",bullying,5,-0.71,9,2,3,289,466,0.51,0.96
+p0227,u327,"That was an amazing performance, bravo!",non-bullying,6,0.61,28,20,0,271,161,2.6,0.24
+p0228,u328,Nobody wants to be around you.,bullying,6,-0.68,3,1,2,225,817,4.79,0.9
+p0229,u329,"Keep going, you’re doing amazing!",non-bullying,5,0.6,60,17,0,281,755,3.18,0.3
+p0230,u330,"You're annoying, everyone hates you.",bullying,5,-0.84,6,2,5,344,527,4.87,0.91
+p0231,u331,"That was an amazing performance, bravo!",non-bullying,6,0.66,75,8,0,268,705,3.91,0.07
+p0232,u332,"Pathetic, you should just quit.",bullying,5,-0.59,1,1,5,271,796,4.52,0.78
+p0233,u333,"That was an amazing performance, bravo!",non-bullying,6,0.37,69,18,0,203,926,2.18,0.22
+p0234,u334,You're nothing but a failure.,bullying,5,-0.77,3,2,3,115,633,2.07,0.81
+p0235,u335,Wishing you all the best in your exams.,non-bullying,8,0.56,55,9,0,414,251,0.36,0.04
+p0236,u336,You're nothing but a failure.,bullying,5,-0.63,3,0,5,276,430,1.72,0.72
+p0237,u337,Thanks for helping me yesterday!,non-bullying,5,0.83,70,3,0,172,120,3.9,0.09
+p0238,u338,Why are you always so dumb?,bullying,6,-0.76,10,2,4,74,211,0.5,0.96
+p0239,u339,"Nice work team, proud of you!",non-bullying,6,0.76,66,0,0,438,166,4.67,0.12
+p0240,u340,"Nobody respects you, just stop.",bullying,5,-0.54,1,0,3,68,553,2.45,0.94
+p0241,u341,"That was an amazing performance, bravo!",non-bullying,6,0.97,25,16,0,60,434,4.17,0.11
+p0242,u342,Why are you always so dumb?,bullying,6,-0.71,9,1,3,101,803,0.52,0.93
+p0243,u343,Wishing you all the best in your exams.,non-bullying,8,0.4,95,17,0,411,201,3.82,0.08
+p0244,u344,"Pathetic, you should just quit.",bullying,5,-0.51,6,2,3,182,494,4.24,0.84
+p0245,u345,"That was an amazing performance, bravo!",non-bullying,6,0.65,13,13,0,373,192,0.43,0.04
+p0246,u346,"Just disappear, nobody will miss you.",bullying,6,-0.97,6,1,3,83,329,0.14,0.95
+p0247,u347,"Keep going, you’re doing amazing!",non-bullying,5,0.32,19,5,0,174,596,4.73,0.28
+p0248,u348,"Pathetic, you should just quit.",bullying,5,-0.66,4,0,4,342,384,0.48,0.86
+p0249,u349,Congrats on your success! Keep shining.,non-bullying,6,0.54,80,15,0,450,734,0.11,0.3
+p0250,u350,Nobody wants to be around you.,bullying,6,-0.77,8,2,4,379,471,2.59,0.7
+p0251,u351,Your positivity inspires everyone around you.,non-bullying,6,0.62,83,3,0,272,258,1.77,0.19
+p0252,u352,"You’re a joke, nobody cares about you.",bullying,7,-0.56,4,1,2,125,310,0.67,0.94
+p0253,u353,Thanks for helping me yesterday!,non-bullying,5,0.52,43,15,0,55,405,4.74,0.24
+p0254,u354,"You’re such a loser, nobody likes you.",bullying,7,-0.63,10,1,3,54,90,0.48,0.77
+p0255,u355,Wishing you all the best in your exams.,non-bullying,8,0.65,15,9,0,376,795,4.7,0.1
+p0256,u356,"Just disappear, nobody will miss you.",bullying,6,-0.6,7,1,2,460,756,4.22,0.72
+p0257,u357,"Great job on your project, well done!",non-bullying,7,0.58,89,0,0,413,529,1.58,0.23
+p0258,u358,Nobody wants to be around you.,bullying,6,-0.71,2,1,3,303,838,2.36,0.8
+p0259,u359,"Great job on your project, well done!",non-bullying,7,0.66,100,14,0,133,237,1.44,0.0
+p0260,u360,"You're annoying, everyone hates you.",bullying,5,-0.57,0,0,4,168,631,0.65,0.75
+p0261,u361,"Nice work team, proud of you!",non-bullying,6,0.68,15,2,0,126,137,4.08,0.21
+p0262,u362,You're nothing but a failure.,bullying,5,-0.93,3,2,1,158,974,4.85,0.9
+p0263,u363,You are really talented and hardworking.,non-bullying,6,0.91,68,15,0,441,636,4.93,0.27
+p0264,u364,You're ugly and worthless.,bullying,4,-0.96,10,2,2,203,518,3.97,0.97
+p0265,u365,"Great job on your project, well done!",non-bullying,7,0.82,63,0,0,122,952,1.03,0.0
+p0266,u366,"Just disappear, nobody will miss you.",bullying,6,-0.95,5,1,2,415,698,4.88,0.9
+p0267,u367,Wishing you all the best in your exams.,non-bullying,8,0.66,49,11,0,269,960,0.88,0.26
+p0268,u368,"Pathetic, you should just quit.",bullying,5,-0.55,10,2,2,122,587,2.44,0.72
+p0269,u369,Your positivity inspires everyone around you.,non-bullying,6,0.77,2,10,0,441,441,2.72,0.1
+p0270,u370,"Just disappear, nobody will miss you.",bullying,6,-0.99,1,2,2,392,840,4.1,0.91
+p0271,u371,You are really talented and hardworking.,non-bullying,6,0.79,29,5,0,140,586,3.23,0.14
+p0272,u372,You're nothing but a failure.,bullying,5,-0.63,3,2,3,437,32,2.21,0.86
+p0273,u373,You are really talented and hardworking.,non-bullying,6,0.79,33,1,0,268,669,4.65,0.12
+p0274,u374,Why are you always so dumb?,bullying,6,-0.85,7,2,4,171,766,3.26,0.98
+p0275,u375,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.54,0,2,0,146,615,2.73,0.15
+p0276,u376,"You’re such a loser, nobody likes you.",bullying,7,-0.72,3,2,2,409,458,3.12,0.86
+p0277,u377,"That was an amazing performance, bravo!",non-bullying,6,0.34,52,9,0,166,484,1.79,0.2
+p0278,u378,"Nobody respects you, just stop.",bullying,5,-0.71,5,2,3,459,233,3.08,0.95
+p0279,u379,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.88,89,5,0,436,74,3.35,0.19
+p0280,u380,Why are you always so dumb?,bullying,6,-0.71,9,1,1,232,241,0.3,0.8
+p0281,u381,"Nice work team, proud of you!",non-bullying,6,0.71,51,2,0,487,555,1.3,0.11
+p0282,u382,Why are you always so dumb?,bullying,6,-0.55,3,0,2,486,50,0.21,0.74
+p0283,u383,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.4,45,6,0,222,999,2.44,0.15
+p0284,u384,You're ugly and worthless.,bullying,4,-0.77,9,2,4,454,131,3.78,0.95
+p0285,u385,Wishing you all the best in your exams.,non-bullying,8,0.46,46,5,0,269,725,2.41,0.1
+p0286,u386,You're ugly and worthless.,bullying,4,-0.95,1,0,2,58,1000,2.63,0.99
+p0287,u387,"Keep going, you’re doing amazing!",non-bullying,5,0.51,64,5,0,103,499,2.17,0.23
+p0288,u388,You're nothing but a failure.,bullying,5,-0.57,5,1,2,59,706,0.39,0.98
+p0289,u389,"Great job on your project, well done!",non-bullying,7,0.33,51,15,0,189,631,3.65,0.26
+p0290,u390,"Just disappear, nobody will miss you.",bullying,6,-0.8,0,0,4,297,224,1.1,0.82
+p0291,u391,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.32,66,16,0,233,440,0.29,0.27
+p0292,u392,"You’re a joke, nobody cares about you.",bullying,7,-0.86,6,0,2,350,392,2.99,0.8
+p0293,u393,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.56,65,0,0,80,692,4.81,0.26
+p0294,u394,"Nobody respects you, just stop.",bullying,5,-0.62,9,2,5,121,987,2.84,0.97
+p0295,u395,Wishing you all the best in your exams.,non-bullying,8,0.46,70,1,0,283,745,0.41,0.13
+p0296,u396,Why are you always so dumb?,bullying,6,-0.72,9,0,3,437,958,3.79,0.86
+p0297,u397,"That was an amazing performance, bravo!",non-bullying,6,0.99,29,6,0,104,251,1.66,0.07
+p0298,u398,Nobody wants to be around you.,bullying,6,-0.7,5,2,5,440,518,3.92,0.94
+p0299,u399,You are really talented and hardworking.,non-bullying,6,0.69,69,17,0,348,495,3.1,0.25
+p0300,u400,"Just disappear, nobody will miss you.",bullying,6,-0.73,10,1,3,233,577,3.2,0.94
+p0301,u401,"Nice work team, proud of you!",non-bullying,6,0.98,23,14,0,396,953,1.14,0.14
+p0302,u402,"Nobody respects you, just stop.",bullying,5,-0.66,7,2,3,50,778,3.38,0.78
+p0303,u403,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.89,85,16,0,112,188,4.36,0.2
+p0304,u404,"You’re such a loser, nobody likes you.",bullying,7,-0.76,6,2,3,413,110,4.64,0.82
+p0305,u405,You are really talented and hardworking.,non-bullying,6,0.88,41,18,0,423,575,3.42,0.2
+p0306,u406,Nobody wants to be around you.,bullying,6,-0.7,8,2,4,301,475,2.88,0.75
+p0307,u407,Congrats on your success! Keep shining.,non-bullying,6,0.92,45,15,0,88,451,4.36,0.12
+p0308,u408,You're ugly and worthless.,bullying,4,-0.53,4,1,5,338,120,1.23,0.75
+p0309,u409,Thanks for helping me yesterday!,non-bullying,5,0.68,8,13,0,211,636,3.72,0.07
+p0310,u410,"Nobody respects you, just stop.",bullying,5,-0.96,3,2,4,242,421,2.87,0.85
+p0311,u411,Thanks for helping me yesterday!,non-bullying,5,0.92,60,8,0,498,113,3.11,0.23
+p0312,u412,You're ugly and worthless.,bullying,4,-0.52,6,1,3,310,927,0.25,0.71
+p0313,u413,"That was an amazing performance, bravo!",non-bullying,6,0.62,61,3,0,461,105,3.47,0.14
+p0314,u414,You're nothing but a failure.,bullying,5,-0.78,0,1,3,134,326,0.72,0.86
+p0315,u415,"That was an amazing performance, bravo!",non-bullying,6,0.42,49,15,0,291,737,2.85,0.13
+p0316,u416,You're ugly and worthless.,bullying,4,-0.95,5,2,3,256,189,4.98,0.77
+p0317,u417,Congrats on your success! Keep shining.,non-bullying,6,0.81,99,1,0,87,46,2.82,0.24
+p0318,u418,Why are you always so dumb?,bullying,6,-0.82,2,0,3,102,288,3.69,0.71
+p0319,u419,You are really talented and hardworking.,non-bullying,6,0.43,44,12,0,150,578,2.58,0.1
+p0320,u420,Nobody wants to be around you.,bullying,6,-0.82,4,0,1,340,588,0.61,0.98
+p0321,u421,"Keep going, you’re doing amazing!",non-bullying,5,0.83,49,4,0,260,628,4.93,0.14
+p0322,u422,"You're annoying, everyone hates you.",bullying,5,-0.74,2,0,2,230,70,3.82,0.88
+p0323,u423,"Great job on your project, well done!",non-bullying,7,0.46,1,9,0,62,201,1.41,0.28
+p0324,u424,"Pathetic, you should just quit.",bullying,5,-0.76,0,1,1,323,944,3.39,0.9
+p0325,u425,Your positivity inspires everyone around you.,non-bullying,6,0.88,29,10,0,434,933,1.95,0.16
+p0326,u426,"Nobody respects you, just stop.",bullying,5,-0.68,7,0,1,298,617,3.13,0.78
+p0327,u427,"Great job on your project, well done!",non-bullying,7,0.7,78,14,0,136,433,4.46,0.14
+p0328,u428,Why are you always so dumb?,bullying,6,-0.66,10,1,5,325,395,0.45,0.77
+p0329,u429,"That was an amazing performance, bravo!",non-bullying,6,0.96,56,2,0,309,185,2.36,0.06
+p0330,u430,Why are you always so dumb?,bullying,6,-0.5,6,1,3,328,305,3.84,0.9
+p0331,u431,Thanks for helping me yesterday!,non-bullying,5,0.41,7,8,0,355,850,0.91,0.3
+p0332,u432,"You’re such a loser, nobody likes you.",bullying,7,-0.83,1,2,2,80,279,4.63,0.74
+p0333,u433,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.42,4,5,0,468,672,2.84,0.03
+p0334,u434,"Just disappear, nobody will miss you.",bullying,6,-0.71,6,2,2,428,750,1.9,0.9
+p0335,u435,Wishing you all the best in your exams.,non-bullying,8,0.7,52,17,0,306,792,0.79,0.08
+p0336,u436,Why are you always so dumb?,bullying,6,-0.56,6,2,3,488,411,4.62,0.73
+p0337,u437,"Nice work team, proud of you!",non-bullying,6,0.43,89,16,0,454,270,3.34,0.2
+p0338,u438,"You’re such a loser, nobody likes you.",bullying,7,-0.89,10,1,5,429,403,3.53,0.98
+p0339,u439,"Keep going, you’re doing amazing!",non-bullying,5,0.94,40,18,0,402,795,4.91,0.0
+p0340,u440,You're ugly and worthless.,bullying,4,-0.61,0,0,5,125,344,2.88,0.79
+p0341,u441,"Keep going, you’re doing amazing!",non-bullying,5,0.57,46,18,0,53,236,3.29,0.29
+p0342,u442,Nobody wants to be around you.,bullying,6,-0.61,8,1,3,374,27,3.76,0.85
+p0343,u443,Congrats on your success! Keep shining.,non-bullying,6,0.52,3,20,0,263,627,0.53,0.25
+p0344,u444,"Nobody respects you, just stop.",bullying,5,-0.92,6,0,4,323,750,2.66,0.93
+p0345,u445,"That was an amazing performance, bravo!",non-bullying,6,0.66,57,2,0,470,686,1.87,0.04
+p0346,u446,You're nothing but a failure.,bullying,5,-0.79,7,1,5,158,577,3.92,0.94
+p0347,u447,"Keep going, you’re doing amazing!",non-bullying,5,0.5,90,20,0,101,822,1.29,0.14
+p0348,u448,"You’re a joke, nobody cares about you.",bullying,7,-0.96,5,0,3,88,721,4.38,0.95
+p0349,u449,Thanks for helping me yesterday!,non-bullying,5,0.52,71,10,0,164,535,0.36,0.07
+p0350,u450,"Pathetic, you should just quit.",bullying,5,-0.76,10,2,4,211,876,3.63,0.81
+p0351,u451,"Great job on your project, well done!",non-bullying,7,0.71,9,18,0,392,183,3.35,0.25
+p0352,u452,"Nobody respects you, just stop.",bullying,5,-0.82,10,0,1,209,246,2.26,0.91
+p0353,u453,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.83,6,10,0,407,549,1.46,0.09
+p0354,u454,"You’re a joke, nobody cares about you.",bullying,7,-0.57,4,0,3,355,887,0.65,0.79
+p0355,u455,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.6,63,0,0,189,639,0.92,0.08
+p0356,u456,"Just disappear, nobody will miss you.",bullying,6,-0.98,9,2,5,484,806,0.78,0.96
+p0357,u457,Congrats on your success! Keep shining.,non-bullying,6,0.94,82,2,0,299,980,4.33,0.08
+p0358,u458,"You're annoying, everyone hates you.",bullying,5,-0.53,5,0,2,97,955,2.28,0.82
+p0359,u459,"Great job on your project, well done!",non-bullying,7,0.92,40,19,0,226,542,2.52,0.22
+p0360,u460,"Just disappear, nobody will miss you.",bullying,6,-0.54,5,2,5,69,287,0.87,0.97
+p0361,u461,"Nice work team, proud of you!",non-bullying,6,0.91,49,19,0,183,976,4.29,0.29
+p0362,u462,Nobody wants to be around you.,bullying,6,-0.73,2,2,3,414,141,4.2,0.79
+p0363,u463,"That was an amazing performance, bravo!",non-bullying,6,0.99,47,15,0,286,35,2.02,0.1
+p0364,u464,"Pathetic, you should just quit.",bullying,5,-0.56,5,1,5,358,110,0.89,0.81
+p0365,u465,"Keep going, you’re doing amazing!",non-bullying,5,0.69,54,16,0,190,529,0.24,0.26
+p0366,u466,"Nobody respects you, just stop.",bullying,5,-0.72,10,1,1,81,242,0.96,0.91
+p0367,u467,Your positivity inspires everyone around you.,non-bullying,6,0.8,70,17,0,467,497,3.25,0.19
+p0368,u468,You're ugly and worthless.,bullying,4,-0.86,10,2,4,68,390,4.82,0.95
+p0369,u469,Congrats on your success! Keep shining.,non-bullying,6,0.31,32,3,0,204,126,2.89,0.28
+p0370,u470,"Nobody respects you, just stop.",bullying,5,-0.76,6,2,2,87,10,2.91,0.88
+p0371,u471,Your positivity inspires everyone around you.,non-bullying,6,0.95,81,7,0,241,61,3.34,0.15
+p0372,u472,"You’re such a loser, nobody likes you.",bullying,7,-0.77,7,2,5,256,711,1.51,0.98
+p0373,u473,"Nice work team, proud of you!",non-bullying,6,0.43,16,11,0,197,683,4.61,0.21
+p0374,u474,You're nothing but a failure.,bullying,5,-0.98,10,0,1,98,213,0.19,0.86
+p0375,u475,You are really talented and hardworking.,non-bullying,6,0.65,36,11,0,279,489,1.52,0.15
+p0376,u476,"Nobody respects you, just stop.",bullying,5,-0.59,4,1,4,197,675,1.35,0.79
+p0377,u477,Thanks for helping me yesterday!,non-bullying,5,0.76,46,17,0,257,565,4.96,0.02
+p0378,u478,You're ugly and worthless.,bullying,4,-0.77,10,0,4,477,553,0.62,0.85
+p0379,u479,"That was an amazing performance, bravo!",non-bullying,6,0.4,79,0,0,121,253,4.15,0.17
+p0380,u480,"You’re such a loser, nobody likes you.",bullying,7,-0.93,8,1,5,491,492,1.95,0.79
+p0381,u481,Your positivity inspires everyone around you.,non-bullying,6,0.57,39,8,0,492,183,0.48,0.21
+p0382,u482,"You're annoying, everyone hates you.",bullying,5,-0.53,4,0,5,379,603,3.78,0.77
+p0383,u483,Congrats on your success! Keep shining.,non-bullying,6,0.99,9,7,0,367,251,4.79,0.15
+p0384,u484,"Just disappear, nobody will miss you.",bullying,6,-0.56,4,2,2,414,884,0.73,0.98
+p0385,u485,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.89,96,8,0,299,611,2.7,0.07
+p0386,u486,You're nothing but a failure.,bullying,5,-0.7,4,1,2,332,702,4.59,0.95
+p0387,u487,"Nice work team, proud of you!",non-bullying,6,0.66,39,3,0,92,175,4.84,0.23
+p0388,u488,Nobody wants to be around you.,bullying,6,-0.98,0,1,3,266,949,3.55,0.97
+p0389,u489,Congrats on your success! Keep shining.,non-bullying,6,0.31,63,7,0,69,165,3.75,0.14
+p0390,u490,"You're annoying, everyone hates you.",bullying,5,-0.6,3,1,2,63,651,3.59,0.96
+p0391,u491,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.83,57,15,0,80,828,4.86,0.08
+p0392,u492,"Nobody respects you, just stop.",bullying,5,-0.85,7,1,4,119,470,4.42,0.88
+p0393,u493,Congrats on your success! Keep shining.,non-bullying,6,0.77,17,18,0,276,200,1.21,0.21
+p0394,u494,You're ugly and worthless.,bullying,4,-0.99,7,1,1,440,41,0.6,0.94
+p0395,u495,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.7,23,18,0,446,108,3.92,0.16
+p0396,u496,Why are you always so dumb?,bullying,6,-0.78,8,0,2,366,912,3.89,0.71
+p0397,u497,"That was an amazing performance, bravo!",non-bullying,6,0.72,40,13,0,345,64,1.71,0.02
+p0398,u498,"You’re such a loser, nobody likes you.",bullying,7,-0.85,2,0,2,380,909,1.84,0.7
+p0399,u499,"Nice work team, proud of you!",non-bullying,6,0.36,66,2,0,199,365,3.92,0.25
+p0400,u500,"You’re a joke, nobody cares about you.",bullying,7,-0.83,7,2,3,102,182,0.19,0.72
+p0401,u501,"Great job on your project, well done!",non-bullying,7,0.38,27,9,0,228,491,4.79,0.26
+p0402,u502,Nobody wants to be around you.,bullying,6,-0.81,2,1,1,75,60,3.19,0.94
+p0403,u503,"That was an amazing performance, bravo!",non-bullying,6,0.76,24,8,0,59,583,2.08,0.02
+p0404,u504,"Just disappear, nobody will miss you.",bullying,6,-0.8,3,1,1,208,341,4.93,0.71
+p0405,u505,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.35,12,16,0,326,838,3.2,0.25
+p0406,u506,"You’re a joke, nobody cares about you.",bullying,7,-0.96,0,2,4,109,194,2.56,0.72
+p0407,u507,"That was an amazing performance, bravo!",non-bullying,6,0.31,62,16,0,108,869,1.97,0.02
+p0408,u508,Why are you always so dumb?,bullying,6,-0.69,7,1,4,101,911,4.88,0.84
+p0409,u509,Wishing you all the best in your exams.,non-bullying,8,0.96,98,2,0,343,830,1.71,0.12
+p0410,u510,Why are you always so dumb?,bullying,6,-0.65,2,0,3,391,441,1.02,0.73
+p0411,u511,"Keep going, you’re doing amazing!",non-bullying,5,0.9,22,0,0,367,749,3.28,0.01
+p0412,u512,"Pathetic, you should just quit.",bullying,5,-0.57,5,0,2,133,377,4.5,0.91
+p0413,u513,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.95,45,3,0,231,738,4.95,0.18
+p0414,u514,"Just disappear, nobody will miss you.",bullying,6,-0.88,10,1,2,255,866,4.9,0.77
+p0415,u515,"Keep going, you’re doing amazing!",non-bullying,5,0.94,17,17,0,125,998,3.02,0.26
+p0416,u516,"You’re a joke, nobody cares about you.",bullying,7,-0.82,5,0,3,305,410,3.15,0.88
+p0417,u517,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.69,98,20,0,292,242,0.35,0.23
+p0418,u518,"Nobody respects you, just stop.",bullying,5,-0.78,8,2,1,491,36,3.18,0.78
+p0419,u519,"Great job on your project, well done!",non-bullying,7,0.75,34,8,0,82,148,2.16,0.09
+p0420,u520,"You’re such a loser, nobody likes you.",bullying,7,-0.61,5,2,3,258,656,1.35,0.98
+p0421,u521,Congrats on your success! Keep shining.,non-bullying,6,0.74,8,4,0,425,496,2.15,0.2
+p0422,u522,You're nothing but a failure.,bullying,5,-0.69,6,2,2,424,115,0.65,0.77
+p0423,u523,"Keep going, you’re doing amazing!",non-bullying,5,0.61,82,20,0,60,976,2.32,0.28
+p0424,u524,"Just disappear, nobody will miss you.",bullying,6,-0.95,0,2,1,409,637,3.2,0.96
+p0425,u525,"Nice work team, proud of you!",non-bullying,6,0.85,20,1,0,342,215,3.79,0.21
+p0426,u526,"Pathetic, you should just quit.",bullying,5,-0.64,7,0,2,441,529,1.7,0.93
+p0427,u527,Thanks for helping me yesterday!,non-bullying,5,0.98,97,20,0,467,187,1.07,0.12
+p0428,u528,"Pathetic, you should just quit.",bullying,5,-0.92,10,1,1,446,305,2.9,0.99
+p0429,u529,"Nice work team, proud of you!",non-bullying,6,0.68,90,16,0,477,855,1.2,0.19
+p0430,u530,Why are you always so dumb?,bullying,6,-0.68,1,2,4,188,642,2.32,0.87
+p0431,u531,Congrats on your success! Keep shining.,non-bullying,6,0.32,5,5,0,216,58,2.95,0.24
+p0432,u532,"You're annoying, everyone hates you.",bullying,5,-0.94,2,1,4,73,666,0.1,0.72
+p0433,u533,Thanks for helping me yesterday!,non-bullying,5,0.46,50,17,0,482,44,3.32,0.25
+p0434,u534,"Pathetic, you should just quit.",bullying,5,-0.57,0,1,1,126,263,2.81,0.76
+p0435,u535,"Great job on your project, well done!",non-bullying,7,0.94,23,4,0,219,950,1.54,0.1
+p0436,u536,"Nobody respects you, just stop.",bullying,5,-0.72,0,1,3,252,57,2.78,0.94
+p0437,u537,Your positivity inspires everyone around you.,non-bullying,6,0.69,89,9,0,55,887,0.27,0.17
+p0438,u538,"Pathetic, you should just quit.",bullying,5,-0.63,7,0,5,158,592,0.95,0.97
+p0439,u539,Thanks for helping me yesterday!,non-bullying,5,0.71,30,11,0,190,641,4.73,0.17
+p0440,u540,"Pathetic, you should just quit.",bullying,5,-0.56,5,2,1,147,974,2.5,0.88
+p0441,u541,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.92,40,18,0,351,38,2.67,0.2
+p0442,u542,Why are you always so dumb?,bullying,6,-0.6,10,2,3,312,436,4.5,0.95
+p0443,u543,"Nice work team, proud of you!",non-bullying,6,0.86,81,20,0,187,443,1.65,0.24
+p0444,u544,"Nobody respects you, just stop.",bullying,5,-0.82,6,0,1,348,907,0.32,0.83
+p0445,u545,Congrats on your success! Keep shining.,non-bullying,6,0.54,30,15,0,162,558,4.58,0.05
+p0446,u546,"Just disappear, nobody will miss you.",bullying,6,-0.54,3,0,1,424,643,0.89,0.87
+p0447,u547,"Nice work team, proud of you!",non-bullying,6,0.34,18,3,0,227,899,0.39,0.16
+p0448,u548,"Pathetic, you should just quit.",bullying,5,-0.82,8,1,2,335,731,4.91,0.94
+p0449,u549,"Great job on your project, well done!",non-bullying,7,0.49,12,12,0,450,93,3.56,0.21
+p0450,u550,You're nothing but a failure.,bullying,5,-0.52,5,1,2,291,412,3.52,0.94
+p0451,u551,"That was an amazing performance, bravo!",non-bullying,6,0.83,9,17,0,292,37,4.91,0.3
+p0452,u552,"You’re a joke, nobody cares about you.",bullying,7,-0.65,2,2,4,69,91,2.48,0.93
+p0453,u553,"Keep going, you’re doing amazing!",non-bullying,5,0.45,35,19,0,495,780,0.51,0.23
+p0454,u554,"Pathetic, you should just quit.",bullying,5,-0.68,4,2,3,346,173,0.21,0.97
+p0455,u555,Congrats on your success! Keep shining.,non-bullying,6,0.85,37,19,0,375,247,2.06,0.29
+p0456,u556,"Just disappear, nobody will miss you.",bullying,6,-0.64,4,2,5,232,255,0.15,0.79
+p0457,u557,You are really talented and hardworking.,non-bullying,6,0.58,47,2,0,137,597,3.12,0.29
+p0458,u558,"Nobody respects you, just stop.",bullying,5,-0.77,7,2,1,115,585,3.5,0.89
+p0459,u559,Wishing you all the best in your exams.,non-bullying,8,0.97,81,19,0,412,684,0.58,0.23
+p0460,u560,Why are you always so dumb?,bullying,6,-0.6,8,1,2,62,111,0.43,0.97
+p0461,u561,"That was an amazing performance, bravo!",non-bullying,6,0.93,67,3,0,500,877,3.1,0.02
+p0462,u562,Why are you always so dumb?,bullying,6,-0.67,8,1,2,476,494,1.1,0.92
+p0463,u563,"Keep going, you’re doing amazing!",non-bullying,5,0.38,52,4,0,161,520,1.99,0.27
+p0464,u564,"You’re such a loser, nobody likes you.",bullying,7,-0.66,6,2,2,139,678,0.57,0.96
+p0465,u565,Thanks for helping me yesterday!,non-bullying,5,0.48,9,6,0,373,632,3.01,0.22
+p0466,u566,"You’re such a loser, nobody likes you.",bullying,7,-0.61,7,0,1,82,827,1.31,0.88
+p0467,u567,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.74,97,12,0,437,512,1.25,0.21
+p0468,u568,"Nobody respects you, just stop.",bullying,5,-0.94,2,0,5,151,345,2.42,0.78
+p0469,u569,"That was an amazing performance, bravo!",non-bullying,6,0.91,72,7,0,420,637,3.55,0.0
+p0470,u570,"Pathetic, you should just quit.",bullying,5,-0.81,3,2,2,361,127,2.53,0.88
+p0471,u571,"That was an amazing performance, bravo!",non-bullying,6,0.51,47,5,0,343,399,4.41,0.06
+p0472,u572,You're nothing but a failure.,bullying,5,-0.72,7,0,5,167,394,0.68,0.81
+p0473,u573,"That was an amazing performance, bravo!",non-bullying,6,0.74,93,9,0,323,258,4.09,0.22
+p0474,u574,You're nothing but a failure.,bullying,5,-0.94,0,1,5,249,336,3.63,0.88
+p0475,u575,"Nice work team, proud of you!",non-bullying,6,0.66,95,1,0,336,308,3.02,0.23
+p0476,u576,"You're annoying, everyone hates you.",bullying,5,-0.64,5,1,4,301,899,1.26,0.72
+p0477,u577,Wishing you all the best in your exams.,non-bullying,8,0.67,39,7,0,290,420,4.63,0.2
+p0478,u578,Nobody wants to be around you.,bullying,6,-0.7,9,2,4,314,760,4.03,0.73
+p0479,u579,"Great job on your project, well done!",non-bullying,7,0.96,62,2,0,52,608,2.35,0.02
+p0480,u580,You're nothing but a failure.,bullying,5,-0.63,5,0,3,423,967,2.04,0.92
+p0481,u581,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.57,91,20,0,195,312,0.99,0.04
+p0482,u582,"Just disappear, nobody will miss you.",bullying,6,-0.69,1,2,2,156,741,2.43,0.86
+p0483,u583,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.78,15,8,0,377,358,1.32,0.07
+p0484,u584,"Nobody respects you, just stop.",bullying,5,-0.61,1,0,5,426,711,2.15,0.82
+p0485,u585,Wishing you all the best in your exams.,non-bullying,8,0.93,70,14,0,323,895,4.56,0.06
+p0486,u586,"You’re a joke, nobody cares about you.",bullying,7,-0.9,2,1,1,500,314,0.34,0.83
+p0487,u587,Wishing you all the best in your exams.,non-bullying,8,0.87,21,2,0,109,231,0.74,0.11
+p0488,u588,"Pathetic, you should just quit.",bullying,5,-0.67,8,1,4,316,947,4.36,0.74
+p0489,u589,Thanks for helping me yesterday!,non-bullying,5,0.77,61,14,0,282,384,2.42,0.07
+p0490,u590,You're ugly and worthless.,bullying,4,-0.86,6,2,3,430,900,3.82,0.81
+p0491,u591,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.87,50,7,0,161,212,2.36,0.04
+p0492,u592,You're nothing but a failure.,bullying,5,-0.52,8,0,4,491,701,4.08,0.75
+p0493,u593,You are really talented and hardworking.,non-bullying,6,0.52,74,17,0,146,944,2.36,0.28
+p0494,u594,"Nobody respects you, just stop.",bullying,5,-0.52,8,2,2,64,592,4.85,0.98
+p0495,u595,Congrats on your success! Keep shining.,non-bullying,6,0.81,63,16,0,400,709,3.32,0.21
+p0496,u596,"Just disappear, nobody will miss you.",bullying,6,-0.94,2,0,3,313,241,3.17,0.98
+p0497,u597,Thanks for helping me yesterday!,non-bullying,5,0.42,33,1,0,54,568,2.16,0.16
+p0498,u598,Why are you always so dumb?,bullying,6,-0.6,0,2,5,181,354,0.61,0.81
+p0499,u599,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.63,14,2,0,341,141,3.47,0.18
+p0500,u600,"You're annoying, everyone hates you.",bullying,5,-0.61,4,1,2,383,601,2.7,0.76
+p0501,u601,Congrats on your success! Keep shining.,non-bullying,6,0.66,65,2,0,185,18,3.26,0.17
+p0502,u602,"Just disappear, nobody will miss you.",bullying,6,-0.74,3,2,5,121,633,4.54,0.81
+p0503,u603,You are really talented and hardworking.,non-bullying,6,0.81,70,17,0,380,263,2.29,0.17
+p0504,u604,"You’re a joke, nobody cares about you.",bullying,7,-0.98,10,2,2,364,86,0.37,0.9
+p0505,u605,"Great job on your project, well done!",non-bullying,7,0.97,58,17,0,186,420,2.76,0.16
+p0506,u606,"You’re such a loser, nobody likes you.",bullying,7,-0.85,5,2,3,106,563,2.3,0.83
+p0507,u607,Your positivity inspires everyone around you.,non-bullying,6,0.32,10,13,0,452,629,4.21,0.24
+p0508,u608,Why are you always so dumb?,bullying,6,-0.58,10,1,3,402,817,2.75,0.77
+p0509,u609,"Nice work team, proud of you!",non-bullying,6,0.42,62,8,0,301,511,1.04,0.27
+p0510,u610,You're nothing but a failure.,bullying,5,-0.58,0,0,3,191,709,1.59,0.82
+p0511,u611,"That was an amazing performance, bravo!",non-bullying,6,0.83,12,1,0,301,658,2.11,0.08
+p0512,u612,"Pathetic, you should just quit.",bullying,5,-0.77,6,1,5,483,550,4.33,0.73
+p0513,u613,"Nice work team, proud of you!",non-bullying,6,0.43,79,6,0,489,702,2.15,0.15
+p0514,u614,"You’re such a loser, nobody likes you.",bullying,7,-0.98,8,0,3,92,707,2.79,0.7
+p0515,u615,"That was an amazing performance, bravo!",non-bullying,6,0.33,87,15,0,96,225,0.58,0.29
+p0516,u616,"Pathetic, you should just quit.",bullying,5,-0.87,5,2,3,185,532,2.65,0.84
+p0517,u617,Congrats on your success! Keep shining.,non-bullying,6,0.86,52,14,0,189,857,1.75,0.09
+p0518,u618,"You’re such a loser, nobody likes you.",bullying,7,-0.87,2,2,2,313,945,4.36,0.96
+p0519,u619,"Keep going, you’re doing amazing!",non-bullying,5,0.75,61,9,0,232,577,2.0,0.2
+p0520,u620,You're nothing but a failure.,bullying,5,-0.61,9,1,5,243,319,4.37,0.76
+p0521,u621,"Great job on your project, well done!",non-bullying,7,0.66,97,18,0,79,161,1.18,0.24
+p0522,u622,"Nobody respects you, just stop.",bullying,5,-0.93,9,2,3,183,408,2.07,0.9
+p0523,u623,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.77,80,11,0,400,297,1.85,0.12
+p0524,u624,You're ugly and worthless.,bullying,4,-0.79,1,0,5,474,461,0.32,0.85
+p0525,u625,"Great job on your project, well done!",non-bullying,7,0.54,67,9,0,210,125,0.8,0.12
+p0526,u626,"You’re such a loser, nobody likes you.",bullying,7,-0.97,6,2,5,253,346,3.17,0.96
+p0527,u627,Congrats on your success! Keep shining.,non-bullying,6,0.93,52,1,0,252,60,0.83,0.23
+p0528,u628,Nobody wants to be around you.,bullying,6,-0.87,4,0,2,86,73,3.77,0.74
+p0529,u629,"Nice work team, proud of you!",non-bullying,6,0.63,21,18,0,486,621,2.81,0.25
+p0530,u630,"Nobody respects you, just stop.",bullying,5,-0.83,10,0,4,266,38,3.98,0.76
+p0531,u631,Thanks for helping me yesterday!,non-bullying,5,0.73,0,5,0,53,618,2.84,0.26
+p0532,u632,"You’re a joke, nobody cares about you.",bullying,7,-0.59,10,2,4,254,955,4.18,0.81
+p0533,u633,"Great job on your project, well done!",non-bullying,7,0.72,87,10,0,270,146,1.38,0.06
+p0534,u634,"Just disappear, nobody will miss you.",bullying,6,-0.9,8,1,3,212,323,4.15,0.79
+p0535,u635,"That was an amazing performance, bravo!",non-bullying,6,0.51,68,15,0,327,248,4.67,0.23
+p0536,u636,"Just disappear, nobody will miss you.",bullying,6,-0.94,10,2,3,252,538,4.34,0.92
+p0537,u637,You are really talented and hardworking.,non-bullying,6,0.56,20,9,0,318,361,4.75,0.13
+p0538,u638,"You’re such a loser, nobody likes you.",bullying,7,-0.91,6,1,2,248,354,0.96,0.74
+p0539,u639,You are really talented and hardworking.,non-bullying,6,0.87,26,20,0,337,536,3.0,0.28
+p0540,u640,You're nothing but a failure.,bullying,5,-0.95,0,1,5,97,659,1.91,0.94
+p0541,u641,Wishing you all the best in your exams.,non-bullying,8,0.76,58,13,0,406,548,2.41,0.04
+p0542,u642,Why are you always so dumb?,bullying,6,-0.6,7,0,4,85,103,4.81,0.73
+p0543,u643,Your positivity inspires everyone around you.,non-bullying,6,1.0,55,3,0,198,821,4.08,0.27
+p0544,u644,Why are you always so dumb?,bullying,6,-0.61,3,2,4,384,209,1.2,0.79
+p0545,u645,Your positivity inspires everyone around you.,non-bullying,6,0.59,57,1,0,183,258,1.86,0.03
+p0546,u646,"You're annoying, everyone hates you.",bullying,5,-0.56,7,1,4,211,965,4.18,0.91
+p0547,u647,Your positivity inspires everyone around you.,non-bullying,6,0.68,82,8,0,391,740,1.72,0.09
+p0548,u648,You're nothing but a failure.,bullying,5,-0.93,1,2,1,74,539,0.33,0.76
+p0549,u649,"That was an amazing performance, bravo!",non-bullying,6,0.94,68,17,0,286,521,3.88,0.18
+p0550,u650,"Pathetic, you should just quit.",bullying,5,-0.64,1,2,1,477,254,2.46,0.88
+p0551,u651,"Keep going, you’re doing amazing!",non-bullying,5,0.7,15,18,0,405,642,2.83,0.21
+p0552,u652,You're nothing but a failure.,bullying,5,-0.73,4,2,3,104,329,3.96,0.97
+p0553,u653,Thanks for helping me yesterday!,non-bullying,5,0.8,57,6,0,317,838,1.25,0.16
+p0554,u654,"You're annoying, everyone hates you.",bullying,5,-0.55,7,1,2,453,640,4.22,0.9
+p0555,u655,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.92,70,14,0,387,590,4.76,0.23
+p0556,u656,"You're annoying, everyone hates you.",bullying,5,-0.91,4,2,4,113,286,1.44,0.73
+p0557,u657,Thanks for helping me yesterday!,non-bullying,5,0.83,41,16,0,262,752,1.77,0.11
+p0558,u658,You're nothing but a failure.,bullying,5,-0.96,6,1,5,189,682,3.63,0.71
+p0559,u659,"That was an amazing performance, bravo!",non-bullying,6,0.98,55,13,0,292,129,2.55,0.06
+p0560,u660,"You’re a joke, nobody cares about you.",bullying,7,-0.83,4,1,1,330,320,0.91,0.97
+p0561,u661,"That was an amazing performance, bravo!",non-bullying,6,0.3,74,12,0,286,551,4.45,0.1
+p0562,u662,"Pathetic, you should just quit.",bullying,5,-0.69,9,2,5,355,298,2.48,0.71
+p0563,u663,"Great job on your project, well done!",non-bullying,7,0.45,39,18,0,445,741,1.54,0.08
+p0564,u664,"You’re a joke, nobody cares about you.",bullying,7,-0.68,3,0,4,152,671,2.44,0.74
+p0565,u665,"Keep going, you’re doing amazing!",non-bullying,5,0.8,93,13,0,383,521,4.08,0.07
+p0566,u666,Nobody wants to be around you.,bullying,6,-0.98,5,1,5,173,247,3.25,0.91
+p0567,u667,"Great job on your project, well done!",non-bullying,7,0.32,6,19,0,133,402,2.0,0.26
+p0568,u668,"You’re such a loser, nobody likes you.",bullying,7,-0.69,2,0,4,192,134,4.67,0.96
+p0569,u669,Your positivity inspires everyone around you.,non-bullying,6,0.8,52,6,0,435,40,1.45,0.14
+p0570,u670,You're nothing but a failure.,bullying,5,-0.99,7,1,5,193,828,2.45,0.75
+p0571,u671,Thanks for helping me yesterday!,non-bullying,5,0.65,56,16,0,113,121,1.16,0.23
+p0572,u672,"Nobody respects you, just stop.",bullying,5,-0.69,10,1,3,278,332,2.65,0.8
+p0573,u673,"That was an amazing performance, bravo!",non-bullying,6,0.3,91,14,0,136,272,4.92,0.19
+p0574,u674,You're ugly and worthless.,bullying,4,-0.94,2,2,3,302,540,3.94,0.99
+p0575,u675,"Keep going, you’re doing amazing!",non-bullying,5,0.96,21,3,0,400,605,4.87,0.01
+p0576,u676,Why are you always so dumb?,bullying,6,-0.91,8,1,5,205,657,2.09,0.95
+p0577,u677,"Great job on your project, well done!",non-bullying,7,0.7,94,0,0,157,719,0.48,0.03
+p0578,u678,"Nobody respects you, just stop.",bullying,5,-0.83,5,2,4,376,553,0.83,0.82
+p0579,u679,Thanks for helping me yesterday!,non-bullying,5,0.98,18,6,0,117,430,1.77,0.3
+p0580,u680,"You're annoying, everyone hates you.",bullying,5,-0.6,8,0,3,66,298,0.81,0.89
+p0581,u681,"That was an amazing performance, bravo!",non-bullying,6,0.79,94,16,0,133,270,2.04,0.1
+p0582,u682,"Nobody respects you, just stop.",bullying,5,-0.63,8,1,4,377,124,4.0,0.93
+p0583,u683,You are really talented and hardworking.,non-bullying,6,0.51,48,15,0,344,443,2.83,0.22
+p0584,u684,Nobody wants to be around you.,bullying,6,-0.96,3,1,4,475,837,3.5,0.76
+p0585,u685,"Keep going, you’re doing amazing!",non-bullying,5,0.66,92,7,0,400,867,4.45,0.2
+p0586,u686,"Just disappear, nobody will miss you.",bullying,6,-0.76,7,2,4,404,557,3.96,0.86
+p0587,u687,You are really talented and hardworking.,non-bullying,6,0.77,44,18,0,399,626,4.76,0.2
+p0588,u688,"Pathetic, you should just quit.",bullying,5,-0.6,9,0,4,228,518,1.11,0.71
+p0589,u689,Congrats on your success! Keep shining.,non-bullying,6,0.56,69,5,0,184,301,0.71,0.14
+p0590,u690,Why are you always so dumb?,bullying,6,-0.94,6,0,4,130,487,3.5,0.79
+p0591,u691,"That was an amazing performance, bravo!",non-bullying,6,0.91,97,1,0,494,544,3.53,0.1
+p0592,u692,"You’re a joke, nobody cares about you.",bullying,7,-0.69,9,1,1,442,214,1.79,0.89
+p0593,u693,Congrats on your success! Keep shining.,non-bullying,6,1.0,16,5,0,493,904,1.8,0.21
+p0594,u694,"You’re such a loser, nobody likes you.",bullying,7,-0.63,0,2,1,98,586,3.99,0.7
+p0595,u695,Wishing you all the best in your exams.,non-bullying,8,0.56,87,16,0,326,685,3.26,0.23
+p0596,u696,Why are you always so dumb?,bullying,6,-0.63,9,1,1,388,678,3.92,0.81
+p0597,u697,"That was an amazing performance, bravo!",non-bullying,6,0.48,46,15,0,436,691,1.92,0.2
+p0598,u698,"You're annoying, everyone hates you.",bullying,5,-0.8,1,0,3,160,677,3.26,0.76
+p0599,u699,"Nice work team, proud of you!",non-bullying,6,0.4,67,14,0,447,550,3.4,0.12
+p0600,u700,Nobody wants to be around you.,bullying,6,-0.72,4,0,1,323,473,3.99,1.0
+p0601,u701,Wishing you all the best in your exams.,non-bullying,8,0.53,35,13,0,328,26,2.16,0.19
+p0602,u702,Why are you always so dumb?,bullying,6,-0.63,5,2,3,233,874,2.86,0.93
+p0603,u703,Wishing you all the best in your exams.,non-bullying,8,0.53,77,13,0,146,88,0.56,0.09
+p0604,u704,Why are you always so dumb?,bullying,6,-0.59,2,2,2,276,142,2.96,0.94
+p0605,u705,"Nice work team, proud of you!",non-bullying,6,0.49,47,1,0,76,340,1.41,0.07
+p0606,u706,"You’re such a loser, nobody likes you.",bullying,7,-0.6,7,1,4,378,30,1.82,0.93
+p0607,u707,Congrats on your success! Keep shining.,non-bullying,6,0.75,25,17,0,233,62,1.46,0.06
+p0608,u708,Nobody wants to be around you.,bullying,6,-0.98,6,0,1,163,891,1.09,0.82
+p0609,u709,Thanks for helping me yesterday!,non-bullying,5,0.32,35,0,0,201,210,2.01,0.29
+p0610,u710,"Just disappear, nobody will miss you.",bullying,6,-0.93,10,1,2,354,848,3.38,0.75
+p0611,u711,"Nice work team, proud of you!",non-bullying,6,0.68,58,2,0,483,419,4.93,0.1
+p0612,u712,"You're annoying, everyone hates you.",bullying,5,-0.6,6,1,5,221,209,0.71,0.92
+p0613,u713,Wishing you all the best in your exams.,non-bullying,8,0.59,80,12,0,303,460,0.21,0.2
+p0614,u714,"You’re such a loser, nobody likes you.",bullying,7,-0.7,7,1,4,166,340,1.23,0.8
+p0615,u715,You are really talented and hardworking.,non-bullying,6,0.78,20,2,0,89,698,3.34,0.17
+p0616,u716,"You’re a joke, nobody cares about you.",bullying,7,-0.67,2,2,1,322,20,2.44,0.9
+p0617,u717,"Great job on your project, well done!",non-bullying,7,0.43,52,2,0,210,372,2.26,0.07
+p0618,u718,"You’re such a loser, nobody likes you.",bullying,7,-0.96,10,0,4,313,234,0.85,0.8
+p0619,u719,You are really talented and hardworking.,non-bullying,6,0.85,55,4,0,478,845,1.65,0.15
+p0620,u720,Why are you always so dumb?,bullying,6,-0.83,8,2,5,314,544,4.6,0.92
+p0621,u721,Your positivity inspires everyone around you.,non-bullying,6,0.62,53,6,0,314,957,4.03,0.19
+p0622,u722,"You're annoying, everyone hates you.",bullying,5,-0.99,6,0,5,99,279,0.15,0.87
+p0623,u723,Wishing you all the best in your exams.,non-bullying,8,0.81,75,6,0,68,935,3.44,0.15
+p0624,u724,"Pathetic, you should just quit.",bullying,5,-0.8,6,2,3,293,358,4.96,0.89
+p0625,u725,"Great job on your project, well done!",non-bullying,7,1.0,60,6,0,199,109,4.49,0.03
+p0626,u726,"Just disappear, nobody will miss you.",bullying,6,-0.75,4,1,5,175,577,3.04,0.99
+p0627,u727,"That was an amazing performance, bravo!",non-bullying,6,0.95,21,18,0,223,135,0.63,0.21
+p0628,u728,You're ugly and worthless.,bullying,4,-0.79,1,1,2,200,797,1.31,0.93
+p0629,u729,"Keep going, you’re doing amazing!",non-bullying,5,0.75,42,18,0,269,114,3.26,0.06
+p0630,u730,"Nobody respects you, just stop.",bullying,5,-0.69,10,2,1,231,205,0.36,0.8
+p0631,u731,Congrats on your success! Keep shining.,non-bullying,6,0.47,95,5,0,60,750,2.48,0.03
+p0632,u732,Nobody wants to be around you.,bullying,6,-0.65,7,0,1,288,202,0.45,0.97
+p0633,u733,Thanks for helping me yesterday!,non-bullying,5,0.44,86,10,0,142,741,1.94,0.16
+p0634,u734,"You’re such a loser, nobody likes you.",bullying,7,-0.68,10,1,5,222,673,3.03,0.72
+p0635,u735,"That was an amazing performance, bravo!",non-bullying,6,0.47,99,20,0,468,717,0.31,0.11
+p0636,u736,Why are you always so dumb?,bullying,6,-0.94,6,2,1,101,940,3.28,0.79
+p0637,u737,Congrats on your success! Keep shining.,non-bullying,6,0.68,6,19,0,122,393,3.62,0.06
+p0638,u738,"You’re a joke, nobody cares about you.",bullying,7,-0.61,7,0,3,236,672,1.88,0.92
+p0639,u739,Your positivity inspires everyone around you.,non-bullying,6,0.56,74,6,0,148,662,3.46,0.12
+p0640,u740,"You're annoying, everyone hates you.",bullying,5,-0.74,10,0,3,246,431,3.32,0.7
+p0641,u741,Wishing you all the best in your exams.,non-bullying,8,0.8,94,19,0,136,748,2.39,0.05
+p0642,u742,Why are you always so dumb?,bullying,6,-0.55,1,0,5,270,402,1.34,0.9
+p0643,u743,"Nice work team, proud of you!",non-bullying,6,0.56,30,19,0,371,217,2.98,0.21
+p0644,u744,You're ugly and worthless.,bullying,4,-0.69,2,2,4,102,75,3.12,0.72
+p0645,u745,You are really talented and hardworking.,non-bullying,6,0.38,10,4,0,407,14,0.96,0.06
+p0646,u746,"Pathetic, you should just quit.",bullying,5,-0.83,3,1,3,83,982,0.87,0.77
+p0647,u747,Wishing you all the best in your exams.,non-bullying,8,0.47,4,3,0,166,297,4.52,0.26
+p0648,u748,You're nothing but a failure.,bullying,5,-0.58,9,2,4,152,728,4.43,0.85
+p0649,u749,"Nice work team, proud of you!",non-bullying,6,0.86,82,2,0,166,554,2.32,0.2
+p0650,u750,"Just disappear, nobody will miss you.",bullying,6,-0.8,5,2,3,370,669,1.73,0.95
+p0651,u751,Wishing you all the best in your exams.,non-bullying,8,0.4,55,17,0,494,660,0.54,0.18
+p0652,u752,Why are you always so dumb?,bullying,6,-0.87,10,0,5,358,538,4.93,0.9
+p0653,u753,Your positivity inspires everyone around you.,non-bullying,6,0.34,90,8,0,54,775,4.64,0.17
+p0654,u754,"You're annoying, everyone hates you.",bullying,5,-0.84,4,1,3,64,912,2.64,0.86
+p0655,u755,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.62,61,9,0,166,800,0.26,0.1
+p0656,u756,"You're annoying, everyone hates you.",bullying,5,-0.9,5,0,1,329,423,2.26,0.91
+p0657,u757,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.75,30,9,0,477,244,0.81,0.15
+p0658,u758,"You're annoying, everyone hates you.",bullying,5,-0.69,0,0,1,196,265,0.39,0.72
+p0659,u759,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.96,18,0,0,498,795,2.05,0.04
+p0660,u760,Nobody wants to be around you.,bullying,6,-0.53,1,0,1,355,781,2.35,0.89
+p0661,u761,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.3,7,7,0,428,798,0.6,0.04
+p0662,u762,"Just disappear, nobody will miss you.",bullying,6,-0.62,10,1,1,241,538,3.49,0.81
+p0663,u763,"Keep going, you’re doing amazing!",non-bullying,5,0.76,55,17,0,342,321,4.86,0.09
+p0664,u764,Nobody wants to be around you.,bullying,6,-0.7,1,1,4,440,870,4.33,0.97
+p0665,u765,Thanks for helping me yesterday!,non-bullying,5,0.95,98,15,0,231,45,3.97,0.12
+p0666,u766,"You’re a joke, nobody cares about you.",bullying,7,-0.65,5,2,5,241,14,3.18,0.7
+p0667,u767,Thanks for helping me yesterday!,non-bullying,5,0.97,19,19,0,473,917,3.98,0.26
+p0668,u768,"You're annoying, everyone hates you.",bullying,5,-0.98,3,0,2,290,173,2.52,0.93
+p0669,u769,"Nice work team, proud of you!",non-bullying,6,0.81,68,5,0,387,128,0.87,0.07
+p0670,u770,You're ugly and worthless.,bullying,4,-0.89,0,0,2,158,43,2.54,0.94
+p0671,u771,Your positivity inspires everyone around you.,non-bullying,6,0.73,83,4,0,379,746,2.5,0.16
+p0672,u772,You're nothing but a failure.,bullying,5,-0.8,6,2,3,228,628,2.0,0.77
+p0673,u773,"Keep going, you’re doing amazing!",non-bullying,5,0.84,97,8,0,495,666,2.37,0.09
+p0674,u774,"Pathetic, you should just quit.",bullying,5,-0.96,7,0,1,71,578,0.19,0.75
+p0675,u775,Thanks for helping me yesterday!,non-bullying,5,0.66,71,1,0,232,545,2.65,0.22
+p0676,u776,Why are you always so dumb?,bullying,6,-0.98,0,1,3,171,868,0.76,0.7
+p0677,u777,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.8,85,17,0,361,448,0.95,0.12
+p0678,u778,Why are you always so dumb?,bullying,6,-0.77,3,1,5,266,714,4.57,0.89
+p0679,u779,You are really talented and hardworking.,non-bullying,6,0.97,53,3,0,163,381,4.07,0.29
+p0680,u780,Why are you always so dumb?,bullying,6,-0.88,10,0,2,231,743,0.8,0.99
+p0681,u781,Your positivity inspires everyone around you.,non-bullying,6,0.78,71,18,0,256,838,0.51,0.1
+p0682,u782,"Nobody respects you, just stop.",bullying,5,-0.9,5,1,4,220,622,2.33,0.73
+p0683,u783,"Nice work team, proud of you!",non-bullying,6,0.81,53,14,0,389,553,0.6,0.06
+p0684,u784,Why are you always so dumb?,bullying,6,-0.82,8,0,3,425,256,3.05,0.78
+p0685,u785,Your positivity inspires everyone around you.,non-bullying,6,1.0,63,20,0,345,604,2.73,0.26
+p0686,u786,Nobody wants to be around you.,bullying,6,-0.99,9,2,4,159,11,4.43,0.97
+p0687,u787,"Keep going, you’re doing amazing!",non-bullying,5,0.85,1,1,0,224,11,0.58,0.11
+p0688,u788,"You’re a joke, nobody cares about you.",bullying,7,-0.7,0,0,1,122,899,4.03,0.87
+p0689,u789,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.34,3,10,0,303,315,0.17,0.09
+p0690,u790,You're nothing but a failure.,bullying,5,-0.83,8,0,2,325,720,0.57,0.82
+p0691,u791,"Nice work team, proud of you!",non-bullying,6,0.89,20,15,0,312,904,4.46,0.23
+p0692,u792,"Just disappear, nobody will miss you.",bullying,6,-0.81,4,0,2,286,347,3.18,0.72
+p0693,u793,"Nice work team, proud of you!",non-bullying,6,0.32,27,16,0,429,29,1.42,0.13
+p0694,u794,"Just disappear, nobody will miss you.",bullying,6,-0.88,1,0,2,237,414,3.23,0.78
+p0695,u795,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.63,9,1,0,254,374,0.16,0.18
+p0696,u796,"Nobody respects you, just stop.",bullying,5,-0.64,1,2,1,283,674,0.69,0.99
+p0697,u797,"Keep going, you’re doing amazing!",non-bullying,5,0.47,20,13,0,348,145,3.02,0.29
+p0698,u798,"Nobody respects you, just stop.",bullying,5,-0.62,3,0,3,163,520,2.41,0.81
+p0699,u799,Wishing you all the best in your exams.,non-bullying,8,0.84,7,17,0,373,28,3.96,0.23
+p0700,u800,"You’re such a loser, nobody likes you.",bullying,7,-0.77,10,1,1,281,967,0.34,0.92
+p0701,u801,"That was an amazing performance, bravo!",non-bullying,6,0.8,67,9,0,217,13,2.6,0.21
+p0702,u802,"Nobody respects you, just stop.",bullying,5,-0.93,10,1,2,195,61,3.15,0.87
+p0703,u803,Your positivity inspires everyone around you.,non-bullying,6,0.77,14,5,0,214,124,4.12,0.11
+p0704,u804,You're ugly and worthless.,bullying,4,-0.66,9,1,2,439,308,2.01,0.83
+p0705,u805,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.82,78,16,0,474,496,1.91,0.06
+p0706,u806,You're ugly and worthless.,bullying,4,-0.62,2,1,2,77,397,4.4,0.98
+p0707,u807,Your positivity inspires everyone around you.,non-bullying,6,0.36,91,7,0,404,949,3.56,0.22
+p0708,u808,"You're annoying, everyone hates you.",bullying,5,-0.87,2,2,5,411,474,4.97,0.9
+p0709,u809,Wishing you all the best in your exams.,non-bullying,8,0.81,27,18,0,118,972,4.6,0.16
+p0710,u810,Why are you always so dumb?,bullying,6,-0.63,9,0,1,326,83,4.34,0.7
+p0711,u811,Wishing you all the best in your exams.,non-bullying,8,0.32,18,17,0,407,279,0.12,0.12
+p0712,u812,Why are you always so dumb?,bullying,6,-0.84,5,2,5,72,719,4.06,0.92
+p0713,u813,Your positivity inspires everyone around you.,non-bullying,6,0.36,53,0,0,442,584,4.02,0.27
+p0714,u814,You're ugly and worthless.,bullying,4,-0.74,2,0,1,456,367,0.9,0.9
+p0715,u815,Wishing you all the best in your exams.,non-bullying,8,0.35,88,10,0,89,483,4.55,0.04
+p0716,u816,You're ugly and worthless.,bullying,4,-0.71,2,2,2,344,889,1.19,0.77
+p0717,u817,"Great job on your project, well done!",non-bullying,7,0.65,52,19,0,466,522,2.26,0.06
+p0718,u818,"Pathetic, you should just quit.",bullying,5,-0.6,1,0,5,385,680,3.13,0.79
+p0719,u819,"That was an amazing performance, bravo!",non-bullying,6,0.82,19,5,0,460,708,3.02,0.1
+p0720,u820,Why are you always so dumb?,bullying,6,-0.56,4,0,5,140,590,0.41,0.97
+p0721,u821,"Keep going, you’re doing amazing!",non-bullying,5,0.48,8,15,0,325,338,1.54,0.06
+p0722,u822,You're ugly and worthless.,bullying,4,-0.58,7,1,5,124,100,0.61,0.74
+p0723,u823,Your positivity inspires everyone around you.,non-bullying,6,0.32,87,10,0,177,359,3.78,0.17
+p0724,u824,Why are you always so dumb?,bullying,6,-0.85,5,0,4,491,437,1.41,0.87
+p0725,u825,"Great job on your project, well done!",non-bullying,7,0.82,42,16,0,244,743,2.32,0.25
+p0726,u826,"Nobody respects you, just stop.",bullying,5,-0.99,2,1,5,197,715,2.45,0.87
+p0727,u827,Congrats on your success! Keep shining.,non-bullying,6,0.42,20,8,0,159,459,3.92,0.25
+p0728,u828,Nobody wants to be around you.,bullying,6,-0.91,4,0,1,342,224,3.06,0.85
+p0729,u829,Thanks for helping me yesterday!,non-bullying,5,0.31,10,3,0,253,282,2.6,0.02
+p0730,u830,"Pathetic, you should just quit.",bullying,5,-0.51,1,0,4,259,37,3.17,0.94
+p0731,u831,"Keep going, you’re doing amazing!",non-bullying,5,0.84,89,8,0,57,967,3.7,0.07
+p0732,u832,"You’re such a loser, nobody likes you.",bullying,7,-0.54,8,0,4,159,369,4.66,0.95
+p0733,u833,Wishing you all the best in your exams.,non-bullying,8,0.46,15,13,0,123,969,4.71,0.02
+p0734,u834,"Just disappear, nobody will miss you.",bullying,6,-0.89,4,1,4,316,278,0.19,0.83
+p0735,u835,Congrats on your success! Keep shining.,non-bullying,6,0.4,8,18,0,114,434,2.79,0.17
+p0736,u836,You're ugly and worthless.,bullying,4,-0.6,1,0,5,220,107,0.19,0.73
+p0737,u837,"Nice work team, proud of you!",non-bullying,6,0.64,31,10,0,80,997,3.35,0.23
+p0738,u838,Nobody wants to be around you.,bullying,6,-0.86,8,2,2,128,605,3.33,0.84
+p0739,u839,Congrats on your success! Keep shining.,non-bullying,6,0.35,75,20,0,495,522,1.33,0.03
+p0740,u840,"You're annoying, everyone hates you.",bullying,5,-0.81,6,1,3,224,103,2.87,0.78
+p0741,u841,"Great job on your project, well done!",non-bullying,7,0.88,35,8,0,305,84,0.11,0.15
+p0742,u842,You're ugly and worthless.,bullying,4,-0.77,4,0,5,236,513,1.77,0.97
+p0743,u843,"That was an amazing performance, bravo!",non-bullying,6,0.63,53,20,0,274,864,3.02,0.28
+p0744,u844,"You’re a joke, nobody cares about you.",bullying,7,-0.78,7,1,5,166,92,3.13,0.97
+p0745,u845,"Keep going, you’re doing amazing!",non-bullying,5,0.35,7,14,0,396,865,1.87,0.24
+p0746,u846,"Nobody respects you, just stop.",bullying,5,-0.79,2,0,2,481,664,0.3,0.98
+p0747,u847,Thanks for helping me yesterday!,non-bullying,5,0.96,56,15,0,239,498,4.47,0.08
+p0748,u848,"You're annoying, everyone hates you.",bullying,5,-0.92,7,0,2,155,694,0.91,0.96
+p0749,u849,Thanks for helping me yesterday!,non-bullying,5,0.31,83,12,0,156,676,1.95,0.05
+p0750,u850,"You’re a joke, nobody cares about you.",bullying,7,-0.63,10,0,4,383,765,1.32,0.98
+p0751,u851,Your positivity inspires everyone around you.,non-bullying,6,0.33,49,17,0,335,372,1.11,0.02
+p0752,u852,"You’re a joke, nobody cares about you.",bullying,7,-0.87,7,1,2,304,713,3.47,0.99
+p0753,u853,Thanks for helping me yesterday!,non-bullying,5,0.57,48,18,0,313,304,0.66,0.12
+p0754,u854,You're nothing but a failure.,bullying,5,-0.57,10,2,3,488,712,0.88,0.86
+p0755,u855,You are really talented and hardworking.,non-bullying,6,0.86,79,13,0,499,384,4.98,0.18
+p0756,u856,You're nothing but a failure.,bullying,5,-0.7,9,0,1,245,138,4.68,0.88
+p0757,u857,"That was an amazing performance, bravo!",non-bullying,6,0.97,45,9,0,142,894,1.58,0.23
+p0758,u858,"You’re a joke, nobody cares about you.",bullying,7,-0.75,3,2,5,469,948,2.37,0.89
+p0759,u859,"Keep going, you’re doing amazing!",non-bullying,5,0.55,55,5,0,347,265,4.46,0.1
+p0760,u860,Why are you always so dumb?,bullying,6,-0.88,3,1,1,482,399,3.92,0.77
+p0761,u861,Congrats on your success! Keep shining.,non-bullying,6,0.3,26,3,0,203,871,1.27,0.03
+p0762,u862,You're nothing but a failure.,bullying,5,-0.61,10,1,4,116,466,3.77,0.95
+p0763,u863,"That was an amazing performance, bravo!",non-bullying,6,0.76,73,13,0,78,70,1.34,0.23
+p0764,u864,"You’re a joke, nobody cares about you.",bullying,7,-0.56,2,1,5,87,139,1.16,0.82
+p0765,u865,"Great job on your project, well done!",non-bullying,7,0.59,18,18,0,418,747,2.49,0.09
+p0766,u866,You're nothing but a failure.,bullying,5,-0.53,7,1,2,332,875,4.79,0.81
+p0767,u867,Your positivity inspires everyone around you.,non-bullying,6,0.54,67,6,0,414,52,2.56,0.07
+p0768,u868,"You’re a joke, nobody cares about you.",bullying,7,-0.62,6,1,1,381,328,1.28,0.93
+p0769,u869,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.71,35,11,0,101,978,4.04,0.04
+p0770,u870,Why are you always so dumb?,bullying,6,-0.52,5,1,3,58,918,1.17,0.86
+p0771,u871,Your positivity inspires everyone around you.,non-bullying,6,0.57,26,5,0,444,444,4.32,0.06
+p0772,u872,"Just disappear, nobody will miss you.",bullying,6,-0.77,6,1,2,429,155,0.76,0.91
+p0773,u873,"Nice work team, proud of you!",non-bullying,6,0.97,100,16,0,151,713,4.68,0.12
+p0774,u874,"You’re such a loser, nobody likes you.",bullying,7,-0.84,2,2,5,442,806,3.11,0.91
+p0775,u875,Your positivity inspires everyone around you.,non-bullying,6,0.8,2,1,0,122,161,3.36,0.19
+p0776,u876,"You're annoying, everyone hates you.",bullying,5,-0.77,0,1,1,198,808,1.97,0.83
+p0777,u877,Thanks for helping me yesterday!,non-bullying,5,0.47,42,16,0,358,685,1.23,0.04
+p0778,u878,Why are you always so dumb?,bullying,6,-0.55,10,2,2,330,304,0.62,0.87
+p0779,u879,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.6,46,17,0,415,258,3.53,0.15
+p0780,u880,You're ugly and worthless.,bullying,4,-0.58,3,1,4,105,169,4.16,0.72
+p0781,u881,Congrats on your success! Keep shining.,non-bullying,6,0.83,11,8,0,235,227,3.94,0.22
+p0782,u882,Nobody wants to be around you.,bullying,6,-0.52,6,2,2,50,887,1.08,0.99
+p0783,u883,Your positivity inspires everyone around you.,non-bullying,6,0.31,79,3,0,84,376,4.0,0.12
+p0784,u884,"Nobody respects you, just stop.",bullying,5,-0.88,8,1,5,258,811,1.37,0.72
+p0785,u885,Your positivity inspires everyone around you.,non-bullying,6,0.61,88,13,0,88,179,4.48,0.23
+p0786,u886,"Pathetic, you should just quit.",bullying,5,-0.83,5,1,1,381,569,4.45,0.85
+p0787,u887,Your positivity inspires everyone around you.,non-bullying,6,0.86,69,3,0,249,843,0.47,0.26
+p0788,u888,"You’re such a loser, nobody likes you.",bullying,7,-0.82,10,0,1,420,978,4.94,0.89
+p0789,u889,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.77,11,0,0,401,189,4.07,0.08
+p0790,u890,"Nobody respects you, just stop.",bullying,5,-0.67,6,0,2,474,196,0.61,0.82
+p0791,u891,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.42,6,3,0,53,619,3.84,0.16
+p0792,u892,"Just disappear, nobody will miss you.",bullying,6,-0.58,6,1,1,143,488,1.87,0.83
+p0793,u893,Thanks for helping me yesterday!,non-bullying,5,0.32,48,1,0,341,356,1.67,0.1
+p0794,u894,"You’re a joke, nobody cares about you.",bullying,7,-0.84,9,1,5,250,630,0.13,0.79
+p0795,u895,"That was an amazing performance, bravo!",non-bullying,6,0.51,94,6,0,254,964,1.92,0.22
+p0796,u896,"You're annoying, everyone hates you.",bullying,5,-0.54,6,1,5,65,641,1.58,0.74
+p0797,u897,Wishing you all the best in your exams.,non-bullying,8,0.5,38,5,0,68,60,0.51,0.04
+p0798,u898,"You're annoying, everyone hates you.",bullying,5,-0.8,4,1,4,79,148,3.18,0.8
+p0799,u899,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.84,85,12,0,57,713,2.53,0.24
+p0800,u900,Why are you always so dumb?,bullying,6,-0.85,3,0,2,468,314,3.69,0.81
+p0801,u901,Congrats on your success! Keep shining.,non-bullying,6,0.67,35,4,0,500,152,3.72,0.18
+p0802,u902,"Pathetic, you should just quit.",bullying,5,-0.54,6,1,4,189,410,2.61,0.79
+p0803,u903,"Great job on your project, well done!",non-bullying,7,0.89,59,16,0,331,503,4.0,0.02
+p0804,u904,"Just disappear, nobody will miss you.",bullying,6,-0.82,7,0,5,392,773,3.0,0.76
+p0805,u905,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.69,11,14,0,379,967,0.45,0.05
+p0806,u906,"Nobody respects you, just stop.",bullying,5,-0.84,6,2,3,89,315,2.85,0.87
+p0807,u907,"Great job on your project, well done!",non-bullying,7,0.89,6,14,0,64,470,2.81,0.23
+p0808,u908,You're nothing but a failure.,bullying,5,-0.9,3,2,4,210,395,4.97,0.91
+p0809,u909,"Great job on your project, well done!",non-bullying,7,0.77,15,10,0,215,110,3.25,0.15
+p0810,u910,"You’re such a loser, nobody likes you.",bullying,7,-0.67,9,2,3,188,435,4.18,0.72
+p0811,u911,Congrats on your success! Keep shining.,non-bullying,6,0.77,10,6,0,488,701,2.18,0.19
+p0812,u912,You're ugly and worthless.,bullying,4,-0.51,8,1,3,226,533,3.63,0.75
+p0813,u913,"That was an amazing performance, bravo!",non-bullying,6,0.97,25,17,0,259,131,2.65,0.24
+p0814,u914,"You’re such a loser, nobody likes you.",bullying,7,-0.87,6,2,1,65,468,0.89,0.75
+p0815,u915,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.58,54,16,0,431,764,2.07,0.24
+p0816,u916,Why are you always so dumb?,bullying,6,-0.89,5,1,1,114,110,1.11,0.91
+p0817,u917,You are really talented and hardworking.,non-bullying,6,0.59,32,2,0,239,891,1.13,0.22
+p0818,u918,"Pathetic, you should just quit.",bullying,5,-0.63,7,1,3,257,300,1.2,0.93
+p0819,u919,You are really talented and hardworking.,non-bullying,6,0.68,45,16,0,67,312,2.86,0.17
+p0820,u920,You're nothing but a failure.,bullying,5,-0.53,8,2,2,269,27,2.67,0.94
+p0821,u921,"Nice work team, proud of you!",non-bullying,6,0.9,7,0,0,369,947,2.97,0.01
+p0822,u922,Nobody wants to be around you.,bullying,6,-0.5,6,0,2,219,238,3.15,0.92
+p0823,u923,Congrats on your success! Keep shining.,non-bullying,6,0.94,3,6,0,329,21,3.26,0.1
+p0824,u924,"You’re such a loser, nobody likes you.",bullying,7,-0.79,4,0,3,331,452,0.17,0.92
+p0825,u925,You are really talented and hardworking.,non-bullying,6,0.8,89,3,0,442,220,2.05,0.21
+p0826,u926,"You're annoying, everyone hates you.",bullying,5,-0.61,0,1,4,475,825,0.45,0.88
+p0827,u927,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.99,88,8,0,423,700,3.98,0.19
+p0828,u928,"Pathetic, you should just quit.",bullying,5,-0.77,8,2,2,419,389,1.62,0.89
+p0829,u929,"Great job on your project, well done!",non-bullying,7,0.48,79,5,0,458,633,1.25,0.27
+p0830,u930,"Pathetic, you should just quit.",bullying,5,-0.82,10,2,3,270,431,4.04,0.84
+p0831,u931,Your positivity inspires everyone around you.,non-bullying,6,0.77,38,8,0,83,114,1.84,0.03
+p0832,u932,You're ugly and worthless.,bullying,4,-0.7,2,2,5,262,411,3.77,0.97
+p0833,u933,"Great job on your project, well done!",non-bullying,7,1.0,67,5,0,256,539,0.84,0.19
+p0834,u934,"You're annoying, everyone hates you.",bullying,5,-0.75,8,0,5,355,262,3.52,0.94
+p0835,u935,You are really talented and hardworking.,non-bullying,6,0.95,32,7,0,62,129,3.77,0.06
+p0836,u936,Nobody wants to be around you.,bullying,6,-0.66,6,0,5,495,782,4.87,0.88
+p0837,u937,Your positivity inspires everyone around you.,non-bullying,6,0.67,96,0,0,197,238,2.46,0.29
+p0838,u938,"Nobody respects you, just stop.",bullying,5,-0.58,0,1,5,265,637,3.72,0.8
+p0839,u939,Congrats on your success! Keep shining.,non-bullying,6,0.47,32,17,0,227,742,4.82,0.2
+p0840,u940,"Nobody respects you, just stop.",bullying,5,-0.62,7,2,2,287,221,0.87,0.9
+p0841,u941,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.99,87,0,0,360,308,0.85,0.12
+p0842,u942,You're ugly and worthless.,bullying,4,-0.61,2,2,5,243,377,3.74,0.85
+p0843,u943,Thanks for helping me yesterday!,non-bullying,5,0.82,74,12,0,359,267,4.48,0.14
+p0844,u944,Why are you always so dumb?,bullying,6,-0.53,2,1,5,135,280,3.67,0.71
+p0845,u945,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.86,29,1,0,271,92,1.59,0.06
+p0846,u946,You're ugly and worthless.,bullying,4,-0.83,8,1,1,102,780,1.82,0.71
+p0847,u947,"Great job on your project, well done!",non-bullying,7,0.89,49,3,0,179,871,1.0,0.06
+p0848,u948,Why are you always so dumb?,bullying,6,-0.81,8,1,4,336,882,0.81,0.97
+p0849,u949,"Great job on your project, well done!",non-bullying,7,0.71,97,3,0,81,451,2.64,0.3
+p0850,u950,You're ugly and worthless.,bullying,4,-0.8,3,2,2,311,670,0.14,0.99
+p0851,u951,"That was an amazing performance, bravo!",non-bullying,6,0.64,55,14,0,263,517,1.31,0.25
+p0852,u952,Why are you always so dumb?,bullying,6,-0.66,8,0,5,373,772,3.69,0.82
+p0853,u953,"Great job on your project, well done!",non-bullying,7,0.63,39,14,0,384,927,0.84,0.01
+p0854,u954,"Pathetic, you should just quit.",bullying,5,-0.9,2,2,1,201,736,0.15,0.87
+p0855,u955,Congrats on your success! Keep shining.,non-bullying,6,0.46,71,1,0,123,24,3.55,0.11
+p0856,u956,"You’re a joke, nobody cares about you.",bullying,7,-0.87,2,2,2,447,923,2.73,0.92
+p0857,u957,"Great job on your project, well done!",non-bullying,7,0.57,49,19,0,343,312,0.51,0.01
+p0858,u958,Nobody wants to be around you.,bullying,6,-0.95,3,0,5,206,917,1.54,0.75
+p0859,u959,Your positivity inspires everyone around you.,non-bullying,6,0.5,78,1,0,181,817,4.33,0.08
+p0860,u960,Why are you always so dumb?,bullying,6,-0.76,5,0,1,171,150,0.72,0.73
+p0861,u961,Wishing you all the best in your exams.,non-bullying,8,0.94,64,6,0,468,143,0.16,0.26
+p0862,u962,You're ugly and worthless.,bullying,4,-0.9,5,2,5,411,276,3.25,0.82
+p0863,u963,"That was an amazing performance, bravo!",non-bullying,6,0.79,89,11,0,500,452,3.02,0.14
+p0864,u964,"You're annoying, everyone hates you.",bullying,5,-0.9,3,1,3,245,957,1.14,0.76
+p0865,u965,Congrats on your success! Keep shining.,non-bullying,6,0.48,14,12,0,342,435,0.61,0.13
+p0866,u966,You're nothing but a failure.,bullying,5,-0.75,8,1,2,300,223,3.95,0.82
+p0867,u967,"That was an amazing performance, bravo!",non-bullying,6,0.73,82,5,0,254,250,2.36,0.23
+p0868,u968,"You’re such a loser, nobody likes you.",bullying,7,-0.7,8,2,5,83,897,3.12,0.73
+p0869,u969,"Keep going, you’re doing amazing!",non-bullying,5,0.96,79,2,0,266,456,2.0,0.07
+p0870,u970,"Nobody respects you, just stop.",bullying,5,-0.74,6,1,5,250,539,3.96,0.8
+p0871,u971,"Nice work team, proud of you!",non-bullying,6,0.76,25,14,0,75,435,3.61,0.03
+p0872,u972,"You’re a joke, nobody cares about you.",bullying,7,-0.94,5,1,4,220,865,4.89,0.79
+p0873,u973,"That was an amazing performance, bravo!",non-bullying,6,0.76,58,10,0,102,420,1.03,0.13
+p0874,u974,Why are you always so dumb?,bullying,6,-0.65,6,0,3,299,286,0.86,0.77
+p0875,u975,"That was an amazing performance, bravo!",non-bullying,6,0.55,1,12,0,249,372,1.8,0.11
+p0876,u976,"Just disappear, nobody will miss you.",bullying,6,-0.63,9,0,1,96,672,4.44,0.75
+p0877,u977,You are really talented and hardworking.,non-bullying,6,0.71,50,11,0,154,586,4.35,0.13
+p0878,u978,Nobody wants to be around you.,bullying,6,-0.52,6,1,3,93,112,1.77,0.96
+p0879,u979,"That was an amazing performance, bravo!",non-bullying,6,0.98,15,12,0,175,456,4.52,0.26
+p0880,u980,"You're annoying, everyone hates you.",bullying,5,-0.53,5,1,1,322,261,0.64,0.77
+p0881,u981,You are really talented and hardworking.,non-bullying,6,0.84,58,5,0,374,27,2.47,0.18
+p0882,u982,Nobody wants to be around you.,bullying,6,-0.79,5,0,3,181,131,4.76,0.88
+p0883,u983,"That was an amazing performance, bravo!",non-bullying,6,0.79,58,10,0,370,663,4.33,0.19
+p0884,u984,Why are you always so dumb?,bullying,6,-0.84,10,1,1,248,71,3.95,0.95
+p0885,u985,"Nice work team, proud of you!",non-bullying,6,0.84,94,7,0,263,981,1.3,0.18
+p0886,u986,"Nobody respects you, just stop.",bullying,5,-0.83,8,1,5,344,41,0.4,0.8
+p0887,u987,"Great job on your project, well done!",non-bullying,7,0.36,30,10,0,497,487,0.18,0.1
+p0888,u988,"You’re a joke, nobody cares about you.",bullying,7,-0.67,5,2,4,116,823,1.12,0.83
+p0889,u989,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.76,56,19,0,225,83,4.38,0.03
+p0890,u990,"Pathetic, you should just quit.",bullying,5,-0.62,5,2,1,363,979,0.68,0.92
+p0891,u991,Your positivity inspires everyone around you.,non-bullying,6,0.8,61,11,0,194,666,4.79,0.05
+p0892,u992,Nobody wants to be around you.,bullying,6,-0.88,8,1,3,484,396,2.78,0.77
+p0893,u993,Your positivity inspires everyone around you.,non-bullying,6,0.66,93,0,0,271,88,0.33,0.03
+p0894,u994,You're ugly and worthless.,bullying,4,-0.77,2,0,5,100,758,3.87,0.99
+p0895,u995,Your positivity inspires everyone around you.,non-bullying,6,0.5,46,9,0,270,974,4.7,0.03
+p0896,u996,Nobody wants to be around you.,bullying,6,-0.68,8,0,2,318,439,3.25,0.89
+p0897,u997,You are really talented and hardworking.,non-bullying,6,0.93,61,16,0,144,596,1.01,0.24
+p0898,u998,Nobody wants to be around you.,bullying,6,-0.85,3,1,5,280,859,4.03,0.88
+p0899,u999,Wishing you all the best in your exams.,non-bullying,8,0.61,87,15,0,491,81,0.71,0.21
+p0900,u1000,Why are you always so dumb?,bullying,6,-0.89,10,2,5,446,586,2.51,0.92
+p0901,u1001,Your positivity inspires everyone around you.,non-bullying,6,0.61,37,17,0,270,662,1.51,0.05
+p0902,u1002,"You’re such a loser, nobody likes you.",bullying,7,-0.52,4,0,1,68,909,3.37,0.75
+p0903,u1003,Wishing you all the best in your exams.,non-bullying,8,0.78,67,18,0,340,115,2.4,0.19
+p0904,u1004,"You’re such a loser, nobody likes you.",bullying,7,-0.9,9,2,2,449,809,4.25,0.72
+p0905,u1005,"That was an amazing performance, bravo!",non-bullying,6,0.96,56,5,0,318,664,3.73,0.27
+p0906,u1006,"You’re a joke, nobody cares about you.",bullying,7,-0.58,2,2,3,438,392,3.66,0.82
+p0907,u1007,Your positivity inspires everyone around you.,non-bullying,6,0.37,44,15,0,126,991,2.24,0.06
+p0908,u1008,Why are you always so dumb?,bullying,6,-0.95,0,2,5,441,760,1.44,0.82
+p0909,u1009,"Keep going, you’re doing amazing!",non-bullying,5,0.88,15,17,0,79,597,0.47,0.22
+p0910,u1010,"You’re such a loser, nobody likes you.",bullying,7,-1.0,1,0,1,51,25,2.03,0.98
+p0911,u1011,Congrats on your success! Keep shining.,non-bullying,6,0.95,82,13,0,250,800,3.58,0.09
+p0912,u1012,Nobody wants to be around you.,bullying,6,-0.66,9,1,5,97,482,3.1,0.9
+p0913,u1013,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.45,38,0,0,67,627,0.31,0.22
+p0914,u1014,"You’re a joke, nobody cares about you.",bullying,7,-0.98,4,0,3,422,465,4.37,0.93
+p0915,u1015,"Great job on your project, well done!",non-bullying,7,0.56,3,16,0,463,497,2.68,0.15
+p0916,u1016,"Nobody respects you, just stop.",bullying,5,-0.51,2,2,5,445,197,0.49,0.75
+p0917,u1017,"Keep going, you’re doing amazing!",non-bullying,5,0.56,53,2,0,206,278,3.28,0.09
+p0918,u1018,Why are you always so dumb?,bullying,6,-0.6,6,0,4,322,443,2.03,0.73
+p0919,u1019,"That was an amazing performance, bravo!",non-bullying,6,0.64,75,4,0,328,563,4.8,0.03
+p0920,u1020,"Just disappear, nobody will miss you.",bullying,6,-0.8,4,1,4,292,735,1.69,0.71
+p0921,u1021,"Keep going, you’re doing amazing!",non-bullying,5,0.45,40,10,0,410,658,4.64,0.1
+p0922,u1022,You're nothing but a failure.,bullying,5,-0.9,6,2,3,196,729,0.84,0.93
+p0923,u1023,"That was an amazing performance, bravo!",non-bullying,6,0.87,23,3,0,55,748,2.74,0.27
+p0924,u1024,"You’re such a loser, nobody likes you.",bullying,7,-0.76,0,1,1,273,619,2.89,0.94
+p0925,u1025,You are really talented and hardworking.,non-bullying,6,0.65,53,3,0,103,781,0.88,0.25
+p0926,u1026,"You’re a joke, nobody cares about you.",bullying,7,-0.76,1,2,3,276,399,0.93,0.93
+p0927,u1027,Congrats on your success! Keep shining.,non-bullying,6,0.96,54,20,0,329,807,2.45,0.28
+p0928,u1028,Why are you always so dumb?,bullying,6,-0.6,4,0,2,385,527,3.87,0.71
+p0929,u1029,Thanks for helping me yesterday!,non-bullying,5,0.71,78,12,0,194,271,1.49,0.29
+p0930,u1030,"Just disappear, nobody will miss you.",bullying,6,-0.87,0,0,1,83,738,2.75,0.75
+p0931,u1031,Wishing you all the best in your exams.,non-bullying,8,0.87,38,8,0,340,594,4.88,0.12
+p0932,u1032,"You’re a joke, nobody cares about you.",bullying,7,-0.63,1,0,4,226,802,1.65,0.93
+p0933,u1033,"Keep going, you’re doing amazing!",non-bullying,5,0.56,68,11,0,92,213,4.93,0.13
+p0934,u1034,Why are you always so dumb?,bullying,6,-0.55,3,1,1,500,916,3.42,0.87
+p0935,u1035,Wishing you all the best in your exams.,non-bullying,8,0.43,78,9,0,169,456,2.92,0.09
+p0936,u1036,"You’re such a loser, nobody likes you.",bullying,7,-0.81,3,2,2,464,176,2.31,0.72
+p0937,u1037,You are really talented and hardworking.,non-bullying,6,0.99,31,3,0,286,637,4.06,0.02
+p0938,u1038,You're nothing but a failure.,bullying,5,-0.52,7,2,4,96,430,0.3,0.77
+p0939,u1039,"Keep going, you’re doing amazing!",non-bullying,5,0.87,39,0,0,318,803,3.1,0.29
+p0940,u1040,"Just disappear, nobody will miss you.",bullying,6,-0.83,6,0,3,253,203,1.98,0.87
+p0941,u1041,You are really talented and hardworking.,non-bullying,6,0.43,19,9,0,492,803,0.97,0.11
+p0942,u1042,You're nothing but a failure.,bullying,5,-0.86,3,2,4,425,27,1.74,0.78
+p0943,u1043,"Nice work team, proud of you!",non-bullying,6,0.63,34,4,0,201,315,3.78,0.15
+p0944,u1044,Why are you always so dumb?,bullying,6,-0.68,4,1,4,197,306,4.21,0.82
+p0945,u1045,Congrats on your success! Keep shining.,non-bullying,6,0.53,14,2,0,275,617,4.78,0.23
+p0946,u1046,"Just disappear, nobody will miss you.",bullying,6,-0.62,6,0,3,432,930,3.24,0.79
+p0947,u1047,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.78,35,6,0,432,266,3.39,0.04
+p0948,u1048,You're nothing but a failure.,bullying,5,-0.85,6,1,1,353,912,0.86,0.99
+p0949,u1049,Wishing you all the best in your exams.,non-bullying,8,0.41,28,6,0,299,966,3.28,0.19
+p0950,u1050,Nobody wants to be around you.,bullying,6,-0.88,4,0,2,281,985,2.45,0.98
+p0951,u1051,Thanks for helping me yesterday!,non-bullying,5,0.34,64,0,0,249,524,0.37,0.29
+p0952,u1052,You're nothing but a failure.,bullying,5,-0.95,10,1,2,401,221,0.84,0.73
+p0953,u1053,Your positivity inspires everyone around you.,non-bullying,6,0.62,47,5,0,316,607,3.86,0.07
+p0954,u1054,"You’re such a loser, nobody likes you.",bullying,7,-0.59,9,2,5,232,392,0.98,0.79
+p0955,u1055,Your positivity inspires everyone around you.,non-bullying,6,0.5,70,1,0,341,154,4.54,0.28
+p0956,u1056,"Pathetic, you should just quit.",bullying,5,-0.71,8,2,5,246,147,2.27,0.88
+p0957,u1057,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.71,65,2,0,208,556,0.34,0.28
+p0958,u1058,You're nothing but a failure.,bullying,5,-0.5,9,2,4,222,30,1.7,0.81
+p0959,u1059,Thanks for helping me yesterday!,non-bullying,5,0.88,67,11,0,361,551,3.77,0.12
+p0960,u1060,Nobody wants to be around you.,bullying,6,-0.92,4,2,4,112,593,2.15,0.9
+p0961,u1061,You are really talented and hardworking.,non-bullying,6,0.32,48,6,0,428,237,4.77,0.25
+p0962,u1062,"Just disappear, nobody will miss you.",bullying,6,-0.7,0,1,4,178,121,1.0,0.85
+p0963,u1063,Thanks for helping me yesterday!,non-bullying,5,0.71,11,0,0,382,118,0.1,0.28
+p0964,u1064,"You’re such a loser, nobody likes you.",bullying,7,-0.57,3,0,4,260,417,1.5,0.84
+p0965,u1065,"Great job on your project, well done!",non-bullying,7,0.33,96,5,0,300,57,3.43,0.11
+p0966,u1066,"Just disappear, nobody will miss you.",bullying,6,-0.94,3,1,4,410,739,3.7,0.78
+p0967,u1067,Thanks for helping me yesterday!,non-bullying,5,0.79,42,17,0,120,459,0.5,0.15
+p0968,u1068,"Just disappear, nobody will miss you.",bullying,6,-0.66,9,2,3,199,848,0.47,0.87
+p0969,u1069,Your positivity inspires everyone around you.,non-bullying,6,0.75,52,16,0,280,432,0.75,0.13
+p0970,u1070,You're nothing but a failure.,bullying,5,-0.65,6,2,3,86,178,3.01,0.73
+p0971,u1071,Congrats on your success! Keep shining.,non-bullying,6,0.76,90,10,0,480,847,4.83,0.02
+p0972,u1072,You're ugly and worthless.,bullying,4,-1.0,0,0,5,71,351,0.7,0.95
+p0973,u1073,You are really talented and hardworking.,non-bullying,6,0.64,60,20,0,225,746,4.25,0.01
+p0974,u1074,You're ugly and worthless.,bullying,4,-0.65,6,2,4,324,51,3.47,0.8
+p0975,u1075,"Nice work team, proud of you!",non-bullying,6,0.72,88,10,0,376,125,0.24,0.18
+p0976,u1076,"You're annoying, everyone hates you.",bullying,5,-0.76,0,0,5,428,931,1.18,0.88
+p0977,u1077,"Happy birthday, hope you have a wonderful day!",non-bullying,8,0.85,48,20,0,313,578,3.03,0.27
+p0978,u1078,"Just disappear, nobody will miss you.",bullying,6,-0.64,6,1,2,369,251,2.86,0.86
+p0979,u1079,Congrats on your success! Keep shining.,non-bullying,6,0.95,54,16,0,168,168,1.89,0.06
+p0980,u1080,You're ugly and worthless.,bullying,4,-0.9,2,1,1,496,137,0.84,0.77
+p0981,u1081,"That was an amazing performance, bravo!",non-bullying,6,0.77,100,4,0,357,430,0.36,0.25
+p0982,u1082,"You're annoying, everyone hates you.",bullying,5,-0.67,4,2,3,304,225,0.45,0.86
+p0983,u1083,Thanks for helping me yesterday!,non-bullying,5,0.5,77,9,0,100,133,1.61,0.06
+p0984,u1084,"Pathetic, you should just quit.",bullying,5,-0.73,2,2,4,401,569,4.73,0.89
+p0985,u1085,Wishing you all the best in your exams.,non-bullying,8,0.89,91,7,0,421,704,2.67,0.28
+p0986,u1086,"You're annoying, everyone hates you.",bullying,5,-0.63,10,0,3,361,630,3.48,0.74
+p0987,u1087,Congrats on your success! Keep shining.,non-bullying,6,0.68,94,3,0,185,826,0.77,0.05
+p0988,u1088,You're ugly and worthless.,bullying,4,-0.51,5,1,1,214,895,2.72,0.86
+p0989,u1089,"Keep going, you’re doing amazing!",non-bullying,5,0.83,71,14,0,492,960,1.13,0.14
+p0990,u1090,"You’re a joke, nobody cares about you.",bullying,7,-0.71,0,0,5,246,220,0.19,0.96
+p0991,u1091,"That was an amazing performance, bravo!",non-bullying,6,0.68,72,0,0,96,640,3.95,0.29
+p0992,u1092,Nobody wants to be around you.,bullying,6,-0.6,8,1,5,55,747,2.86,0.95
+p0993,u1093,"Great job on your project, well done!",non-bullying,7,0.91,27,18,0,498,196,3.55,0.07
+p0994,u1094,You're ugly and worthless.,bullying,4,-0.98,9,2,2,101,666,4.68,0.95
+p0995,u1095,Wishing you all the best in your exams.,non-bullying,8,0.34,60,4,0,306,181,1.13,0.27
+p0996,u1096,"You’re such a loser, nobody likes you.",bullying,7,-0.78,3,1,1,384,590,4.13,0.8
+p0997,u1097,"Nice work team, proud of you!",non-bullying,6,0.7,61,12,0,280,969,2.72,0.23
+p0998,u1098,Why are you always so dumb?,bullying,6,-0.76,4,1,5,245,518,4.15,0.99
+p0999,u1099,Wishing you all the best in your exams.,non-bullying,8,0.65,32,10,0,346,685,2.03,0.14
+p1000,u1100,Why are you always so dumb?,bullying,6,-0.8,0,1,3,247,477,3.8,0.83
