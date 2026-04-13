@@ -56,42 +56,56 @@ It covers everything from Python fundamentals to advanced Deep Learning, includi
 
 ---
 
-### 🔹 Month 3: Advanced Machine Learning
+### 🔹 Month 3: Advanced Machine Learning & Deep Learning Foundation
 
+### 🧠 Machine Learning Core
 - Decision Tree & Entropy  
 - Random Forest (Ensemble Learning)  
 - Support Vector Machine (SVM)  
 
-#### Clustering:
-- K-Means  
+---
+
+### 📊 Clustering Techniques
+- K-Means Clustering  
 - Hierarchical Clustering  
 - DBSCAN  
 
-- Overfitting & Model Optimization  
+---
+
+### ⚠️ Overfitting & Optimization
+- Overfitting problem understanding  
+- Model optimization techniques  
 
 ---
 
-### 🔹 Month 4: Deep Learning
-
+### 🧠 Neural Networks Basics
 - Neural Networks & Perceptron  
-- PyTorch (Tensor, Autograd, Training Pipeline)  
-
-#### Optimization Techniques:
-- SGD  
-- Adam  
-- RMSProp  
-
-#### Regularization:
-- Dropout  
-- L1/L2  
-
-- MLP (Multi-Layer Perceptron)  
+- Multi-Layer Perceptron (MLP)  
 - Backpropagation & Gradient Concepts  
 
 ---
 
-### 🔹 Month 5: CNN & RNN
+### ⚙️ PyTorch Fundamentals
+- PyTorch Tensors  
+- Autograd & Computational Graph  
+- Training Pipeline in PyTorch  
 
+---
+
+### 🔧 Optimization Techniques
+- SGD (Stochastic Gradient Descent)  
+- Adam Optimizer  
+- RMSProp  
+
+---
+
+### 🛡️ Regularization Techniques
+- Dropout  
+- L1 / L2 Regularization  
+
+---
+
+### 🚀 Deep Learning Concepts
 - Activation Functions (ReLU, Sigmoid, Tanh, etc.)  
 - Convolutional Neural Networks (CNN)  
 - Recurrent Neural Networks (RNN, LSTM, GRU)  
